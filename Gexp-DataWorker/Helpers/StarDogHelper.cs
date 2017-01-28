@@ -23,7 +23,8 @@ namespace Gexp_DataWorker.Helpers
             + "PREFIX owl2xml: <http://www.w3.org/2006/12/owl2-xml#>" + System.Environment.NewLine
             + "PREFIX dc: <http://purl.org/dc/elements/1.1/>" + System.Environment.NewLine
             + "PREFIX dcterms: <http://purl.org/dc/terms/>" + System.Environment.NewLine
-            + "PREFIX foaf:  <http://xmlns.com/foaf/0.1/>" + Environment.NewLine;
+            + "PREFIX foaf:  <http://xmlns.com/foaf/0.1/>" + Environment.NewLine
+            + "prefix gexp: <https://gexp-core-api.herokuapp.com/myOntology.owl#>" + Environment.NewLine;
         }
 
         private static string ConnectionString()

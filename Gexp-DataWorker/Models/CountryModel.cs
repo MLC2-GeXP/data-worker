@@ -9,6 +9,6 @@ namespace Gexp_DataWorker.Models
     public class CountryModel
     {
         public string CountryName { get; set; }
-        public string WikiCountryUrl { get; set; }
+        public string DbpediaUrl { get; set; }
     }
 }

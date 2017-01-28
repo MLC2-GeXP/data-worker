@@ -70,7 +70,7 @@ namespace Gexp_DataWorker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to gexp-sdog-db.
+        ///   Looks up a localized string similar to gexp-db.
         /// </summary>
         internal static string dataBase {
             get {

@@ -121,7 +121,7 @@
     <value>http://localhost:5820/</value>
   </data>
   <data name="dataBase" xml:space="preserve">
-    <value>gexp-sdog-db</value>
+    <value>gexp-db</value>
   </data>
   <data name="password" xml:space="preserve">
     <value>admin</value>

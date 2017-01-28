@@ -78,10 +78,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\QueryCategoryAndSubcategoryController.cs" />
+    <Compile Include="Controller\QueryDataController.cs" />
     <Compile Include="Helpers\LoadFile.cs" />
     <Compile Include="Helpers\SparqlHelper.cs" />
     <Compile Include="Helpers\StarDogHelper.cs" />
+    <Compile Include="Models\CategoryModel.cs" />
     <Compile Include="Models\CountryModel.cs" />
+    <Compile Include="Models\DataModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -89,6 +93,8 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Controller\QueryCountryController.cs" />
+    <Compile Include="Spinner.cs" />
     <Compile Include="StarDogInerface.cs" />
   </ItemGroup>
   <ItemGroup>

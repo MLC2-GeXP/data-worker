@@ -5,9 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gexp-DataWorker", "Gexp-DataWorker\Gexp-DataWorker.csproj", "{D8F3B4A2-6296-40C1-BCDC-12F5CAAA28AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gexp_DataWorker_API", "Gexp_DataWorker_API\Gexp_DataWorker_API.csproj", "{684C8E60-0137-4BA1-BB77-8A670189BD3B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gexp_DataWorker_API.Tests", "Gexp_DataWorker_API.Tests\Gexp_DataWorker_API.Tests.csproj", "{B9CD09F2-2D3F-4418-99E0-4425B5E4EC05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gexp_DataWorker_API", "Gexp_DataWorker_API\Gexp_DataWorker_API.csproj", "{7576F80C-EF60-4197-B5AA-6A8744D7E4E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +17,10 @@ Global
 		{D8F3B4A2-6296-40C1-BCDC-12F5CAAA28AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8F3B4A2-6296-40C1-BCDC-12F5CAAA28AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8F3B4A2-6296-40C1-BCDC-12F5CAAA28AA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{684C8E60-0137-4BA1-BB77-8A670189BD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{684C8E60-0137-4BA1-BB77-8A670189BD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{684C8E60-0137-4BA1-BB77-8A670189BD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{684C8E60-0137-4BA1-BB77-8A670189BD3B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9CD09F2-2D3F-4418-99E0-4425B5E4EC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9CD09F2-2D3F-4418-99E0-4425B5E4EC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9CD09F2-2D3F-4418-99E0-4425B5E4EC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9CD09F2-2D3F-4418-99E0-4425B5E4EC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7576F80C-EF60-4197-B5AA-6A8744D7E4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7576F80C-EF60-4197-B5AA-6A8744D7E4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7576F80C-EF60-4197-B5AA-6A8744D7E4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7576F80C-EF60-4197-B5AA-6A8744D7E4E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
