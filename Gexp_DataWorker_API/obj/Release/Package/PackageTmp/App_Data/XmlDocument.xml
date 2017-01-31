@@ -521,10 +521,11 @@
             Controller for querying data /country/category/subcategory/year/gender
             </summary>
         </member>
-        <member name="M:Gexp_DataWorker_API.Controllers.QueryDataApiController.GetListOfItems(System.String,System.String,System.String,System.String,System.String,System.String)">
+        <member name="M:Gexp_DataWorker_API.Controllers.QueryDataApiController.GetListOfItems(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
             <summary>
-            Get list of items and filter based on query parameters (by default none of them are applied,  unless they are specified)
+            Get list of items and filter based on query parameters (by default none of them are applied,  excepting category, subcategory and indicator which are required parameters)
             </summary>
+            <param name="indicator"></param>
             <param name="countryUrl"></param>
             <param name="category"></param>
             <param name="subcategory"></param>

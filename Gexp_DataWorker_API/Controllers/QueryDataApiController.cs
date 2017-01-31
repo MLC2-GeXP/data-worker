@@ -17,8 +17,9 @@ namespace Gexp_DataWorker_API.Controllers
     public class QueryDataApiController : ApiController
     {
         /// <summary>
-        /// Get list of items and filter based on query parameters (by default none of them are applied,  unless they are specified)
+        /// Get list of items and filter based on query parameters (by default none of them are applied,  excepting category, subcategory and indicator which are required parameters)
         /// </summary>
+        /// <param name="indicator"></param>
         /// <param name="countryUrl"></param>
         /// <param name="category"></param>
         /// <param name="subcategory"></param>
@@ -26,24 +27,60 @@ namespace Gexp_DataWorker_API.Controllers
         /// <param name="endYear"></param>
         /// <param name="gender"></param>
         /// <returns></returns>
-        public HttpResponseMessage GetListOfItems(string countryUrl = "all", string category = "all", string subcategory = "all", string startYear = "n/a", string endYear = "n/a", string gender = "all")
+        [HttpGet]
+        [AllowAnonymous]
+        [Route("gexp/QueryDataApi")]
+        public HttpResponseMessage GetListOfItems(string category, string subcategory, string indicator, string countryUrl = "all", string startYear = "n/a", string endYear = "n/a", string gender = "n/a")
         {
             QueryDataController queryData = new QueryDataController();
 
-            if(countryUrl != "all")
-                if (!IsValidUrl(countryUrl))
+            //required field
+            if (category == "")
+                return Request.CreateResponse(HttpStatusCode.BadRequest);
+            if (subcategory == "")
+                return Request.CreateResponse(HttpStatusCode.BadRequest);
+            if (indicator == "")
+                return Request.CreateResponse(HttpStatusCode.BadRequest);
+
+            //check if we have a list of countries
+            var countryCheck = countryUrl.Split(',');
+            List<string> countryUriList = new List<string>();
+
+            if (countryUrl != "all")
+            {
+                if (countryCheck.Length > 1)
+                {
+                    //we have a list :))
+                    var list = countryUrl.Split(',');
+                    foreach (var item in list)
+                    {
+                        if (!IsValidUrl(countryUrl))
+                            return Request.CreateResponse(HttpStatusCode.BadRequest);
+                        else
+                        {
+                            if (IsValidUrl(item))
+                                countryUriList.Add(item);
+                            else
+                                return Request.CreateResponse(HttpStatusCode.BadRequest);
+                        }
+                    }
+                }
+                else if (IsValidUrl(countryUrl))
+                    countryUriList.Add(countryUrl);
+                else
                     return Request.CreateResponse(HttpStatusCode.BadRequest);
+            }
 
             var yearPattern = @"\b\d{4}\b";
-            if (startYear != "n/a")            
-                if(!Regex.IsMatch(startYear, yearPattern))
-                    return Request.CreateResponse(HttpStatusCode.BadRequest);                            
+            if (startYear != "n/a")
+                if (!Regex.IsMatch(startYear, yearPattern))
+                    return Request.CreateResponse(HttpStatusCode.BadRequest);
 
             if (endYear != "n/a")
                 if (!Regex.IsMatch(endYear, yearPattern))
                     return Request.CreateResponse(HttpStatusCode.BadRequest);
 
-            if(gender != "all")
+            if(gender != "n/a")
                 if (!IsValidGender(gender))
                     return Request.CreateResponse(HttpStatusCode.BadRequest);
 
@@ -53,22 +90,18 @@ namespace Gexp_DataWorker_API.Controllers
 
                 #region set params
 
-                if (countryUrl == "all")
-                    countryUrl = "";
-                if (category == "all")
-                    category = "";
-                if (subcategory == "all")
-                    subcategory = "";
                 if (startYear == "n/a")
                     startYear = "";
                 if (endYear == "n/a")
-                    endYear = "";              
+                    endYear = "";
+                if (gender == "n/a")
+                    gender = "";
 
                 #endregion
 
-                response = queryData.GetListOfItems(countryUrl, category, subcategory, startYear, endYear, gender);
+                response = queryData.GetListOfItems(countryUriList, category, subcategory, indicator, startYear, endYear, gender);
 
-                if (response.Count > 0)
+                if (response != null)
                     return Request.CreateResponse(HttpStatusCode.OK, response);
                 else
                     return Request.CreateResponse(HttpStatusCode.NotFound);
@@ -90,9 +123,11 @@ namespace Gexp_DataWorker_API.Controllers
         {
             switch (gender)
             {
-                case "female":                    
+                case "female":
                     return true;
                 case "male":
+                    return true;
+                case "all":
                     return true;
             }
             return false;

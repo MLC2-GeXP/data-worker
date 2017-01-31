@@ -21,4 +21,3 @@ C:\Users\UserLB50\Documents\semantic_files\Gexp-DataWorker\Gexp-DataWorker\obj\D
 C:\Users\UserLB50\Documents\semantic_files\Gexp-DataWorker\Gexp-DataWorker\obj\Debug\Gexp-DataWorker.csproj.GenerateResource.Cache
 C:\Users\UserLB50\Documents\semantic_files\Gexp-DataWorker\Gexp-DataWorker\obj\Debug\Gexp-DataWorker.exe
 C:\Users\UserLB50\Documents\semantic_files\Gexp-DataWorker\Gexp-DataWorker\obj\Debug\Gexp-DataWorker.pdb
-C:\Users\UserLB50\Documents\semantic_files\Gexp-DataWorker\Gexp-DataWorker\obj\Debug\Gexp-DataWorker.csprojResolveAssemblyReference.cache

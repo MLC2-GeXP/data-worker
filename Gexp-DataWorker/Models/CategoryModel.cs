@@ -20,5 +20,11 @@ namespace Gexp_DataWorker.Models
     public class SubcategoryModel
     {
         public string SubcategoryName { get; set; }
+        public List<SubcategoryIndicators> Indicators { get; set; }
+    }
+
+    public class SubcategoryIndicators
+    {
+        public string Indicator { get; set; }
     }
 }

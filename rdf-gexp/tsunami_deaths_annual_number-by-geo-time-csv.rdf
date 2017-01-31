@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gexp="https://gexp-core-api.herokuapp.com/myOntology.owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx1">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bangladesh">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx1"/>
+	<dc:identifier>bd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx2">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1979</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/France">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx2"/>
+	<dc:identifier>fr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx3">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16390</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/India">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx3"/>
+	<dc:identifier>in</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx4">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">539</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1979</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx4"/>
+	<dc:identifier>id</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx5">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1980</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx5"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx6">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2003</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx6"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx7">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">165700</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx7"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx8">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2005</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx8"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx9">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">802</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx9"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx10">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kenya">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx10"/>
+	<dc:identifier>ke</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx11">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">80</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Malaysia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx11"/>
+	<dc:identifier>my</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx12">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">102</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Maldives">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx12"/>
+	<dc:identifier>mv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx13">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Myanmar">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx13"/>
+	<dc:identifier>mm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx14">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2182</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1998</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Papua_New_Guinea">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx14"/>
+	<dc:identifier>pg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx15">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1996</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Peru">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx15"/>
+	<dc:identifier>pe</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx16">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Seychelles">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx16"/>
+	<dc:identifier>sc</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx17">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2007</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Solomon_Islands">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx17"/>
+	<dc:identifier>sb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx18">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Somalia">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx18"/>
+	<dc:identifier>so</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx19">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35400</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx19"/>
+	<dc:identifier>lk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx20">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tanzania">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx20"/>
+	<dc:identifier>tz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx21">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8345</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2004</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Thailand">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx21"/>
+	<dc:identifier>th</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o4jfvvx22">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">100</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1997</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Environment</gexp:hasCategory>
+	<gexp:hasSubcategory>Disasters</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Tsunami - deaths annual number</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Vanuatu">
+	<gexp:linkNode rdf:nodeID="node1b7o4jfvvx22"/>
+	<dc:identifier>vu</dc:identifier>
+</rdf:Description>
+
+</rdf:RDF>

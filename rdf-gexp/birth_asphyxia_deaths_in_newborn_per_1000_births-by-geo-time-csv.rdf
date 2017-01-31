@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gexp="https://gexp-core-api.herokuapp.com/myOntology.owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:nodeID="node1b7o9630px1">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.68</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Afghanistan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px1"/>
+	<dc:identifier>af</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px2">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4992</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Albania">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px2"/>
+	<dc:identifier>al</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px3">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.326</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Algeria">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px3"/>
+	<dc:identifier>dz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px4">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.26</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Angola">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px4"/>
+	<dc:identifier>ao</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px5">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7138</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Argentina">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px5"/>
+	<dc:identifier>ar</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px6">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.123</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Armenia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px6"/>
+	<dc:identifier>am</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px7">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3891</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Australia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px7"/>
+	<dc:identifier>au</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px8">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3427</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Austria">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px8"/>
+	<dc:identifier>at</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px9">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.657</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Azerbaijan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px9"/>
+	<dc:identifier>az</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px10">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.24</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/The_Bahamas">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px10"/>
+	<dc:identifier>bs</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px11">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.644</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bahrain">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px11"/>
+	<dc:identifier>bh</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px12">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.393</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bangladesh">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px12"/>
+	<dc:identifier>bd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px13">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.399</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Barbados">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px13"/>
+	<dc:identifier>bb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px14">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.623</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Belarus">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px14"/>
+	<dc:identifier>by</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px15">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2942</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Belgium">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px15"/>
+	<dc:identifier>be</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px16">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.614</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Belize">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px16"/>
+	<dc:identifier>bz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px17">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.189</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Benin">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px17"/>
+	<dc:identifier>bj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px18">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.68</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bhutan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px18"/>
+	<dc:identifier>bt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px19">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.755</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bolivia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px19"/>
+	<dc:identifier>bo</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px20">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.106</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bosnia_and_Herzegovina">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px20"/>
+	<dc:identifier>ba</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px21">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.007</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Botswana">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px21"/>
+	<dc:identifier>bw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px22">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.472</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Brazil">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px22"/>
+	<dc:identifier>br</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px23">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3859</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Brunei">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px23"/>
+	<dc:identifier>bn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px24">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7704</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bulgaria">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px24"/>
+	<dc:identifier>bg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px25">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.109</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Burkina_Faso">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px25"/>
+	<dc:identifier>bf</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px26">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.02</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Burundi">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px26"/>
+	<dc:identifier>bi</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px27">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.912</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cambodia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px27"/>
+	<dc:identifier>kh</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px28">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.169</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cameroon">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px28"/>
+	<dc:identifier>cm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px29">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5919</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Canada">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px29"/>
+	<dc:identifier>ca</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px30">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.24</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cape_Verde">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px30"/>
+	<dc:identifier>cv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px31">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.03</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Central_African_Republic">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px31"/>
+	<dc:identifier>cf</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px32">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.66</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Chad">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px32"/>
+	<dc:identifier>td</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px33">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3423</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Chile">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px33"/>
+	<dc:identifier>cl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px34">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.286</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/People's_Republic_of_China">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px34"/>
+	<dc:identifier>cn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px35">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.346</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Colombia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px35"/>
+	<dc:identifier>co</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px36">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.978</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Comoros">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px36"/>
+	<dc:identifier>km</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px37">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.957</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_the_Congo">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px37"/>
+	<dc:identifier>cg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px38">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8882</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Costa_Rica">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px38"/>
+	<dc:identifier>cr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px39">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.615</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Côte_d'Ivoire">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px39"/>
+	<dc:identifier>ci</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px40">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3794</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Croatia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px40"/>
+	<dc:identifier>hr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px41">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3574</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cuba">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px41"/>
+	<dc:identifier>cu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px42">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1008</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cyprus">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px42"/>
+	<dc:identifier>cy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px43">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.385</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Czech_Republic">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px43"/>
+	<dc:identifier>cz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px44">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.477</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/North_Korea">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px44"/>
+	<dc:identifier>kp</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px45">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.43</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Democratic_Republic_of_the_Congo">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px45"/>
+	<dc:identifier>cd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px46">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3369</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Denmark">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px46"/>
+	<dc:identifier>dk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px47">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.312</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Djibouti">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px47"/>
+	<dc:identifier>dj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px48">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.497</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Dominican_Republic">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px48"/>
+	<dc:identifier>do</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px49">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.624</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ecuador">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px49"/>
+	<dc:identifier>ec</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px50">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.102</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Egypt">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px50"/>
+	<dc:identifier>eg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px51">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.142</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/El_Salvador">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px51"/>
+	<dc:identifier>sv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px52">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.17</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Equatorial_Guinea">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px52"/>
+	<dc:identifier>gq</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px53">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.741</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Eritrea">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px53"/>
+	<dc:identifier>er</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px54">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4393</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Estonia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px54"/>
+	<dc:identifier>ee</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px55">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.68</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ethiopia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px55"/>
+	<dc:identifier>et</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px56">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.301</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Fiji">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px56"/>
+	<dc:identifier>fj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px57">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1864</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Finland">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px57"/>
+	<dc:identifier>fi</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px58">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3831</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/France">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px58"/>
+	<dc:identifier>fr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px59">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.271</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Gabon">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px59"/>
+	<dc:identifier>ga</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px60">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.922</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/The_Gambia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px60"/>
+	<dc:identifier>gm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px61">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.833</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Georgia_(country)">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px61"/>
+	<dc:identifier>ge</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px62">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2253</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Germany">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px62"/>
+	<dc:identifier>de</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px63">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.164</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ghana">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px63"/>
+	<dc:identifier>gh</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px64">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1406</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Greece">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px64"/>
+	<dc:identifier>gr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px65">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.988</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Grenada">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px65"/>
+	<dc:identifier>gd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px66">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.352</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px66"/>
+	<dc:identifier>gt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px67">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.19</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guinea">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px67"/>
+	<dc:identifier>gn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px68">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.39</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guinea-Bissau">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px68"/>
+	<dc:identifier>gw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px69">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.139</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guyana">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px69"/>
+	<dc:identifier>gy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px70">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.951</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Haiti">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px70"/>
+	<dc:identifier>ht</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px71">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Honduras">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px71"/>
+	<dc:identifier>hn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px72">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2434</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Hungary">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px72"/>
+	<dc:identifier>hu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px73">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2163</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Iceland">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px73"/>
+	<dc:identifier>is</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px74">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.039</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/India">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px74"/>
+	<dc:identifier>in</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px75">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.13</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px75"/>
+	<dc:identifier>id</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px76">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.748</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Iran">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px76"/>
+	<dc:identifier>ir</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px77">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.199</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Iraq">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px77"/>
+	<dc:identifier>iq</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px78">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1737</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Ireland">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px78"/>
+	<dc:identifier>ie</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px79">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.243</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Israel">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px79"/>
+	<dc:identifier>il</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px80">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.24</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Italy">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px80"/>
+	<dc:identifier>it</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px81">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.279</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Jamaica">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px81"/>
+	<dc:identifier>jm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px82">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1257</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Japan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px82"/>
+	<dc:identifier>jp</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px83">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.045</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Jordan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px83"/>
+	<dc:identifier>jo</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px84">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kazakhstan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px84"/>
+	<dc:identifier>kz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px85">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.632</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kenya">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px85"/>
+	<dc:identifier>ke</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px86">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2518</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kuwait">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px86"/>
+	<dc:identifier>kw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px87">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.499</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kyrgyzstan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px87"/>
+	<dc:identifier>kg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px88">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.343</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Laos">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px88"/>
+	<dc:identifier>la</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px89">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.902</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Latvia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px89"/>
+	<dc:identifier>lv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px90">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6673</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lebanon">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px90"/>
+	<dc:identifier>lb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px91">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.04</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lesotho">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px91"/>
+	<dc:identifier>ls</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px92">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.33</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Liberia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px92"/>
+	<dc:identifier>lr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px93">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8108</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Libya">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px93"/>
+	<dc:identifier>ly</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px94">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4456</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lithuania">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px94"/>
+	<dc:identifier>lt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px95">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1834</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Luxembourg">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px95"/>
+	<dc:identifier>lu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px96">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.185</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Madagascar">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px96"/>
+	<dc:identifier>mg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px97">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.572</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Malawi">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px97"/>
+	<dc:identifier>mw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px98">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4504</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Malaysia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px98"/>
+	<dc:identifier>my</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px99">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.969</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Maldives">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px99"/>
+	<dc:identifier>mv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px100">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.54</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mali">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px100"/>
+	<dc:identifier>ml</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px101">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5435</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Malta">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px101"/>
+	<dc:identifier>mt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px102">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.77</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mauritania">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px102"/>
+	<dc:identifier>mr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px103">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.935</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mauritius">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px103"/>
+	<dc:identifier>mu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px104">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mexico">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px104"/>
+	<dc:identifier>mx</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px105">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.869</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Federated_States_of_Micronesia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px105"/>
+	<dc:identifier>fm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px106">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.075</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mongolia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px106"/>
+	<dc:identifier>mn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px107">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7912</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Montenegro">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px107"/>
+	<dc:identifier>me</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px108">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.295</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Morocco">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px108"/>
+	<dc:identifier>ma</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px109">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.68</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mozambique">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px109"/>
+	<dc:identifier>mz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px110">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.86</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Myanmar">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px110"/>
+	<dc:identifier>mm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px111">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.439</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Namibia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px111"/>
+	<dc:identifier>na</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px112">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.962</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Nepal">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px112"/>
+	<dc:identifier>np</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px113">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5025</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px113"/>
+	<dc:identifier>nl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px114">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6007</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/New_Zealand">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px114"/>
+	<dc:identifier>nz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px115">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.915</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Nicaragua">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px115"/>
+	<dc:identifier>ni</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px116">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.587</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Niger">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px116"/>
+	<dc:identifier>ne</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px117">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Nigeria">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px117"/>
+	<dc:identifier>ng</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px118">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4477</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Norway">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px118"/>
+	<dc:identifier>no</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px119">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5866</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Oman">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px119"/>
+	<dc:identifier>om</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px120">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.61</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Pakistan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px120"/>
+	<dc:identifier>pk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px121">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.169</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Panama">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px121"/>
+	<dc:identifier>pa</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px122">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.661</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Papua_New_Guinea">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px122"/>
+	<dc:identifier>pg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px123">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.24</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Paraguay">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px123"/>
+	<dc:identifier>py</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px124">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.91</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Peru">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px124"/>
+	<dc:identifier>pe</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px125">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.123</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Philippines">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px125"/>
+	<dc:identifier>ph</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px126">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3869</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Poland">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px126"/>
+	<dc:identifier>pl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px127">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2867</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Portugal">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px127"/>
+	<dc:identifier>pt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px128">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.267</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Qatar">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px128"/>
+	<dc:identifier>qa</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px129">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2015</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/South_Korea">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px129"/>
+	<dc:identifier>kr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px130">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.135</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Moldova">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px130"/>
+	<dc:identifier>md</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px131">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4494</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Romania">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px131"/>
+	<dc:identifier>ro</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px132">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6917</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Russia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px132"/>
+	<dc:identifier>ru</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px133">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.52</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Rwanda">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px133"/>
+	<dc:identifier>rw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px134">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.636</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Lucia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px134"/>
+	<dc:identifier>lc</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px135">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.043</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px135"/>
+	<dc:identifier>vc</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px136">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.899</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Samoa">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px136"/>
+	<dc:identifier>ws</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px137">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.773</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/São_Tomé_and_Príncipe">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px137"/>
+	<dc:identifier>st</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px138">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.019</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Saudi_Arabia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px138"/>
+	<dc:identifier>sa</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px139">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.973</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Senegal">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px139"/>
+	<dc:identifier>sn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px140">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7859</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Serbia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px140"/>
+	<dc:identifier>rs</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px141">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.96</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_Leone">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px141"/>
+	<dc:identifier>sl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px142">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02689</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Singapore">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px142"/>
+	<dc:identifier>sg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px143">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2548</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Slovakia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px143"/>
+	<dc:identifier>sk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px144">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2054</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Slovenia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px144"/>
+	<dc:identifier>si</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px145">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.185</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Solomon_Islands">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px145"/>
+	<dc:identifier>sb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px146">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.14</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Somalia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px146"/>
+	<dc:identifier>so</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px147">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.515</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/South_Africa">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px147"/>
+	<dc:identifier>za</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px148">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2178</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Spain">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px148"/>
+	<dc:identifier>es</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px149">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.226</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px149"/>
+	<dc:identifier>lk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px150">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.352</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sudan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px150"/>
+	<dc:identifier>sd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px151">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.251</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Suriname">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px151"/>
+	<dc:identifier>sr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px152">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.682</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Swaziland">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px152"/>
+	<dc:identifier>sz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px153">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2703</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sweden">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px153"/>
+	<dc:identifier>se</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px154">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3583</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px154"/>
+	<dc:identifier>ch</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px155">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6676</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Syria">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px155"/>
+	<dc:identifier>sy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px156">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.684</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tajikistan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px156"/>
+	<dc:identifier>tj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px157">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.511</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Thailand">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px157"/>
+	<dc:identifier>th</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px158">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8992</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Macedonia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px158"/>
+	<dc:identifier>mk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px159">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.047</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Togo">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px159"/>
+	<dc:identifier>tg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px160">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.398</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tonga">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px160"/>
+	<dc:identifier>to</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px161">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.275</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Trinidad_and_Tobago">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px161"/>
+	<dc:identifier>tt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px162">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.051</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tunisia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px162"/>
+	<dc:identifier>tn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px163">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.205</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Turkey">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px163"/>
+	<dc:identifier>tr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px164">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.834</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Turkmenistan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px164"/>
+	<dc:identifier>tm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px165">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.694</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Uganda">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px165"/>
+	<dc:identifier>ug</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px166">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9068</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ukraine">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px166"/>
+	<dc:identifier>ua</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px167">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3356</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/United_Arab_Emirates">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px167"/>
+	<dc:identifier>ae</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px168">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3472</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px168"/>
+	<dc:identifier>gb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px169">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.573</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tanzania">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px169"/>
+	<dc:identifier>tz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px170">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3094</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/United_States">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px170"/>
+	<dc:identifier>us</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px171">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.556</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px171"/>
+	<dc:identifier>uy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px172">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.851</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Uzbekistan">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px172"/>
+	<dc:identifier>uz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px173">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.264</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Vanuatu">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px173"/>
+	<dc:identifier>vu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px174">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.499</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Venezuela">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px174"/>
+	<dc:identifier>ve</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px175">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.329</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Vietnam">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px175"/>
+	<dc:identifier>vn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px176">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.801</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Yemen">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px176"/>
+	<dc:identifier>ye</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px177">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.03</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Zambia">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px177"/>
+	<dc:identifier>zm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o9630px178">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.71</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Birth asphyxia deaths in newborn (per 1,000 births)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Zimbabwe">
+	<gexp:linkNode rdf:nodeID="node1b7o9630px178"/>
+	<dc:identifier>zw</dc:identifier>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gexp="https://gexp-core-api.herokuapp.com/myOntology.owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:nodeID="node1b7o983tjx1">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7978</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Afghanistan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx1"/>
+	<dc:identifier>af</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx2">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Albania">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx2"/>
+	<dc:identifier>al</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx3">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2159</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Algeria">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx3"/>
+	<dc:identifier>dz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx4">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3168</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Angola">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx4"/>
+	<dc:identifier>ao</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx5">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">107</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Argentina">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx5"/>
+	<dc:identifier>ar</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx6">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">66</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Armenia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx6"/>
+	<dc:identifier>am</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx7">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Australia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx7"/>
+	<dc:identifier>au</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx8">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Austria">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx8"/>
+	<dc:identifier>at</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx9">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">276</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Azerbaijan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx9"/>
+	<dc:identifier>az</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx10">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/The_Bahamas">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx10"/>
+	<dc:identifier>bs</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx11">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bahrain">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx11"/>
+	<dc:identifier>bh</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx12">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6076</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bangladesh">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx12"/>
+	<dc:identifier>bd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx13">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Barbados">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx13"/>
+	<dc:identifier>bb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx14">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Belarus">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx14"/>
+	<dc:identifier>by</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx15">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Belgium">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx15"/>
+	<dc:identifier>be</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx16">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Belize">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx16"/>
+	<dc:identifier>bz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx17">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2009</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Benin">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx17"/>
+	<dc:identifier>bj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx18">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">64</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bhutan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx18"/>
+	<dc:identifier>bt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx19">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">314</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bolivia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx19"/>
+	<dc:identifier>bo</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx20">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bosnia_and_Herzegovina">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx20"/>
+	<dc:identifier>ba</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx21">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">75</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Botswana">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx21"/>
+	<dc:identifier>bw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx22">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">663</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Brazil">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx22"/>
+	<dc:identifier>br</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx23">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Brunei">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx23"/>
+	<dc:identifier>bn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx24">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Bulgaria">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx24"/>
+	<dc:identifier>bg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx25">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4942</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Burkina_Faso">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx25"/>
+	<dc:identifier>bf</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx26">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">745</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Burundi">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx26"/>
+	<dc:identifier>bi</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx27">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">560</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cambodia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx27"/>
+	<dc:identifier>kh</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx28">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1757</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cameroon">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx28"/>
+	<dc:identifier>cm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx29">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Canada">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx29"/>
+	<dc:identifier>ca</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx30">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cape_Verde">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx30"/>
+	<dc:identifier>cv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx31">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">971</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Central_African_Republic">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx31"/>
+	<dc:identifier>cf</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx32">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2633</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Chad">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx32"/>
+	<dc:identifier>td</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx33">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Chile">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx33"/>
+	<dc:identifier>cl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx34">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5870</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/People's_Republic_of_China">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx34"/>
+	<dc:identifier>cn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx35">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">458</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Colombia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx35"/>
+	<dc:identifier>co</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx36">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">72</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Comoros">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx36"/>
+	<dc:identifier>km</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx37">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">315</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_the_Congo">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx37"/>
+	<dc:identifier>cg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx38">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Costa_Rica">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx38"/>
+	<dc:identifier>cr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx39">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4191</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Côte_d'Ivoire">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx39"/>
+	<dc:identifier>ci</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx40">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Croatia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx40"/>
+	<dc:identifier>hr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx41">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cuba">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx41"/>
+	<dc:identifier>cu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx42">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cyprus">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx42"/>
+	<dc:identifier>cy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx43">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Czech_Republic">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx43"/>
+	<dc:identifier>cz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx44">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">633</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/North_Korea">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx44"/>
+	<dc:identifier>kp</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx45">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24540</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Democratic_Republic_of_the_Congo">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx45"/>
+	<dc:identifier>cd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx46">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Denmark">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx46"/>
+	<dc:identifier>dk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx47">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Djibouti">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx47"/>
+	<dc:identifier>dj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx48">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">437</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Dominican_Republic">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx48"/>
+	<dc:identifier>do</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx49">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">347</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ecuador">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx49"/>
+	<dc:identifier>ec</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx50">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1790</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Egypt">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx50"/>
+	<dc:identifier>eg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx51">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">79</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/El_Salvador">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx51"/>
+	<dc:identifier>sv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx52">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Equatorial_Guinea">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx52"/>
+	<dc:identifier>gq</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx53">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">247</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Eritrea">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx53"/>
+	<dc:identifier>er</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx54">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Estonia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx54"/>
+	<dc:identifier>ee</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx55">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9399</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ethiopia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx55"/>
+	<dc:identifier>et</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx56">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Fiji">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx56"/>
+	<dc:identifier>fj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx57">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Finland">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx57"/>
+	<dc:identifier>fi</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx58">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/France">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx58"/>
+	<dc:identifier>fr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx59">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">89</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Gabon">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx59"/>
+	<dc:identifier>ga</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx60">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">295</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/The_Gambia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx60"/>
+	<dc:identifier>gm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx61">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Georgia_(country)">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx61"/>
+	<dc:identifier>ge</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx62">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Germany">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx62"/>
+	<dc:identifier>de</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx63">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1603</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ghana">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx63"/>
+	<dc:identifier>gh</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx64">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Greece">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx64"/>
+	<dc:identifier>gr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx65">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Grenada">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx65"/>
+	<dc:identifier>gd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx66">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">435</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx66"/>
+	<dc:identifier>gt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx67">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2568</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guinea">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx67"/>
+	<dc:identifier>gn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx68">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">223</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guinea-Bissau">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx68"/>
+	<dc:identifier>gw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx69">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Guyana">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx69"/>
+	<dc:identifier>gy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx70">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">356</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Haiti">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx70"/>
+	<dc:identifier>ht</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx71">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">256</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Honduras">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx71"/>
+	<dc:identifier>hn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx72">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Hungary">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx72"/>
+	<dc:identifier>hu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx73">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Iceland">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx73"/>
+	<dc:identifier>is</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx74">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">168000</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/India">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx74"/>
+	<dc:identifier>in</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx75">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7666</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx75"/>
+	<dc:identifier>id</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx76">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2183</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Iran">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx76"/>
+	<dc:identifier>ir</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx77">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2895</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Iraq">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx77"/>
+	<dc:identifier>iq</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx78">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Ireland">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx78"/>
+	<dc:identifier>ie</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx79">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Israel">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx79"/>
+	<dc:identifier>il</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx80">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Italy">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx80"/>
+	<dc:identifier>it</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx81">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Jamaica">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx81"/>
+	<dc:identifier>jm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx82">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Japan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx82"/>
+	<dc:identifier>jp</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx83">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">144</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Jordan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx83"/>
+	<dc:identifier>jo</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx84">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">373</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kazakhstan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx84"/>
+	<dc:identifier>kz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx85">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2240</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kenya">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx85"/>
+	<dc:identifier>ke</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx86">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kuwait">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx86"/>
+	<dc:identifier>kw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx87">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">197</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kyrgyzstan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx87"/>
+	<dc:identifier>kg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx88">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">99</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Laos">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx88"/>
+	<dc:identifier>la</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx89">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Latvia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx89"/>
+	<dc:identifier>lv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx90">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lebanon">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx90"/>
+	<dc:identifier>lb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx91">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">77</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lesotho">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx91"/>
+	<dc:identifier>ls</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx92">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">601</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Liberia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx92"/>
+	<dc:identifier>lr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx93">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">82</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Libya">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx93"/>
+	<dc:identifier>ly</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx94">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Lithuania">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx94"/>
+	<dc:identifier>lt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx95">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Luxembourg">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx95"/>
+	<dc:identifier>lu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx96">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1819</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Madagascar">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx96"/>
+	<dc:identifier>mg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx97">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1133</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Malawi">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx97"/>
+	<dc:identifier>mw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx98">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Malaysia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx98"/>
+	<dc:identifier>my</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx99">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Maldives">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx99"/>
+	<dc:identifier>mv</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx100">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5169</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mali">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx100"/>
+	<dc:identifier>ml</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx101">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Malta">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx101"/>
+	<dc:identifier>mt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx102">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">621</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mauritania">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx102"/>
+	<dc:identifier>mr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx103">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mauritius">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx103"/>
+	<dc:identifier>mu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx104">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">655</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mexico">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx104"/>
+	<dc:identifier>mx</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx105">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Federated_States_of_Micronesia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx105"/>
+	<dc:identifier>fm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx106">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">89</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mongolia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx106"/>
+	<dc:identifier>mn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx107">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Montenegro">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx107"/>
+	<dc:identifier>me</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx108">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1855</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Morocco">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx108"/>
+	<dc:identifier>ma</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx109">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5374</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Mozambique">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx109"/>
+	<dc:identifier>mz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx110">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1982</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Myanmar">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx110"/>
+	<dc:identifier>mm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx111">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">104</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Namibia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx111"/>
+	<dc:identifier>na</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx112">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1472</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Nepal">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx112"/>
+	<dc:identifier>np</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx113">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx113"/>
+	<dc:identifier>nl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx114">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/New_Zealand">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx114"/>
+	<dc:identifier>nz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx115">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">185</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Nicaragua">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx115"/>
+	<dc:identifier>ni</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx116">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3808</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Niger">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx116"/>
+	<dc:identifier>ne</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx117">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15840</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Nigeria">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx117"/>
+	<dc:identifier>ng</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx118">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Norway">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx118"/>
+	<dc:identifier>no</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx119">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Oman">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx119"/>
+	<dc:identifier>om</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx120">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31990</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Pakistan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx120"/>
+	<dc:identifier>pk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx121">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Panama">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx121"/>
+	<dc:identifier>pa</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx122">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">354</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Papua_New_Guinea">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx122"/>
+	<dc:identifier>pg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx123">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">194</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Paraguay">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx123"/>
+	<dc:identifier>py</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx124">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">818</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Peru">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx124"/>
+	<dc:identifier>pe</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx125">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3807</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Philippines">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx125"/>
+	<dc:identifier>ph</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx126">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Poland">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx126"/>
+	<dc:identifier>pl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx127">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Portugal">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx127"/>
+	<dc:identifier>pt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx128">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Qatar">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx128"/>
+	<dc:identifier>qa</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx129">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/South_Korea">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx129"/>
+	<dc:identifier>kr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx130">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">63</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Moldova">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx130"/>
+	<dc:identifier>md</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx131">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">197</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Romania">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx131"/>
+	<dc:identifier>ro</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx132">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">317</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Russia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx132"/>
+	<dc:identifier>ru</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx133">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">703</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Rwanda">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx133"/>
+	<dc:identifier>rw</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx134">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Lucia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx134"/>
+	<dc:identifier>lc</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx135">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx135"/>
+	<dc:identifier>vc</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx136">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Samoa">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx136"/>
+	<dc:identifier>ws</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx137">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/São_Tomé_and_Príncipe">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx137"/>
+	<dc:identifier>st</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx138">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">484</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Saudi_Arabia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx138"/>
+	<dc:identifier>sa</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx139">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2432</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Senegal">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx139"/>
+	<dc:identifier>sn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx140">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Serbia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx140"/>
+	<dc:identifier>rs</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx141">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1465</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_Leone">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx141"/>
+	<dc:identifier>sl</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx142">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Singapore">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx142"/>
+	<dc:identifier>sg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx143">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Slovakia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx143"/>
+	<dc:identifier>sk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx144">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Slovenia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx144"/>
+	<dc:identifier>si</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx145">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Solomon_Islands">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx145"/>
+	<dc:identifier>sb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx146">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1369</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Somalia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx146"/>
+	<dc:identifier>so</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx147">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2125</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/South_Africa">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx147"/>
+	<dc:identifier>za</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx148">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Spain">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx148"/>
+	<dc:identifier>es</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx149">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">277</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx149"/>
+	<dc:identifier>lk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx150">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8412</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sudan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx150"/>
+	<dc:identifier>sd</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx151">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Suriname">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx151"/>
+	<dc:identifier>sr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx152">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">72</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Swaziland">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx152"/>
+	<dc:identifier>sz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx153">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Sweden">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx153"/>
+	<dc:identifier>se</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx154">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx154"/>
+	<dc:identifier>ch</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx155">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">269</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Syria">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx155"/>
+	<dc:identifier>sy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx156">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">157</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tajikistan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx156"/>
+	<dc:identifier>tj</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx157">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">990</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Thailand">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx157"/>
+	<dc:identifier>th</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx158">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Macedonia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx158"/>
+	<dc:identifier>mk</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx159">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1022</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Togo">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx159"/>
+	<dc:identifier>tg</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx160">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tonga">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx160"/>
+	<dc:identifier>to</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx161">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Trinidad_and_Tobago">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx161"/>
+	<dc:identifier>tt</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx162">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">128</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tunisia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx162"/>
+	<dc:identifier>tn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx163">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1656</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Turkey">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx163"/>
+	<dc:identifier>tr</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx164">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Turkmenistan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx164"/>
+	<dc:identifier>tm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx165">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2210</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Uganda">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx165"/>
+	<dc:identifier>ug</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx166">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">259</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ukraine">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx166"/>
+	<dc:identifier>ua</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx167">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/United_Arab_Emirates">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx167"/>
+	<dc:identifier>ae</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx168">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx168"/>
+	<dc:identifier>gb</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx169">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2986</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Tanzania">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx169"/>
+	<dc:identifier>tz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx170">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">104</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/United_States">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx170"/>
+	<dc:identifier>us</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx171">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx171"/>
+	<dc:identifier>uy</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx172">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1061</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Uzbekistan">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx172"/>
+	<dc:identifier>uz</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx173">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Vanuatu">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx173"/>
+	<dc:identifier>vu</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx174">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">328</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Venezuela">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx174"/>
+	<dc:identifier>ve</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx175">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1099</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Vietnam">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx175"/>
+	<dc:identifier>vn</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx176">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2861</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Yemen">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx176"/>
+	<dc:identifier>ye</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx177">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1125</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Zambia">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx177"/>
+	<dc:identifier>zm</dc:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1b7o983tjx178">
+	<gexp:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">442</gexp:hasValue>
+	<gexp:inYear rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2008</gexp:inYear>
+	<foaf:gender>all</foaf:gender>
+	<gexp:hasCategory>Health</gexp:hasCategory>
+	<gexp:hasSubcategory>Causes of newborn deaths</gexp:hasSubcategory>
+	<gexp:hasIndicatorName>Pneumonia deaths in newborn (total deaths)</gexp:hasIndicatorName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Zimbabwe">
+	<gexp:linkNode rdf:nodeID="node1b7o983tjx178"/>
+	<dc:identifier>zw</dc:identifier>
+</rdf:Description>
+
+</rdf:RDF>

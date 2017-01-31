@@ -40,7 +40,7 @@ namespace Gexp_DataWorker.Helpers
                 }
                 string formatedErrorFilesListName = null;
                 foreach (var item in errorFilesListName)
-                    formatedErrorFilesListName = item + " " + Environment.NewLine;
+                    formatedErrorFilesListName += item + " " + Environment.NewLine;
                 
                 
                 status = String.Format("Uploaded successfully {0} , not uploaded {1}" + Environment.NewLine + "Error on file/s: {2}", nrFilesSucces, nrFilesError, formatedErrorFilesListName);

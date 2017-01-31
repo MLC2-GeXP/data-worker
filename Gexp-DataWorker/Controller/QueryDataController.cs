@@ -12,30 +12,49 @@ namespace Gexp_DataWorker.Controller
     {
         private readonly StarDogInerface _starDogInerface = new StarDogInerface();
 
-        public List<DataModel> GetListOfItems(string countryUrl, string category, string subCategory, string yearStart, string yearEnd, string gen)
+        public List<DataModel> GetListOfItems(List<string> countryUrl, string category, string subCategory, string indicator, string yearStart, string yearEnd, string gen)
         {
             var responseList = new List<DataModel>();
 
             //main query
-            var sparqlQuery = "select distinct ?country ?countryLink ?an ?val ?subcateg ?categ ?gender" +
+            var sparqlQuery = "select distinct ?country ?countryLink ?an ?val ?subcateg ?categ ?gender ?indicator" +
                               "{ " +
                               "?countryLink dc:identifier ?country . " +
-                              "?countryLink gexp:linkNode ?node . " +
+                              "?countryLink gexp:linkNode ?node . " +                              
                               "?node gexp:hasCategory ?categ . " +
                               "?node gexp:inYear ?an . " +
                               "?node gexp:hasValue ?val . " +
-                              "?node gexp:hasSubcategory ?subcateg . " +
-                              "?node gexp:hasCategory ?categ ." +
-                              "?node foaf:gender ?gender";
+                              "?node gexp:hasSubcategory ?subcateg . " +                          
+                              "?node foaf:gender ?gender . " +
+                              "?node gexp:hasIndicatorName ?indicator " + Environment.NewLine +
+                              "filter(str(?categ) = \""+category+"\")" + Environment.NewLine +
+                              "filter(str(?subcateg) = \"" + subCategory + "\")" + Environment.NewLine +
+                              "filter(str(?indicator) = \"" + indicator + "\")" + Environment.NewLine;
 
             var orderBy = "?country";
 
-            if (!String.IsNullOrEmpty(countryUrl))
+            if (countryUrl.Count() > 0)
             {
-                sparqlQuery += Environment.NewLine + "filter(regex(str(?countryLink), \"" + countryUrl.Trim() + "\"))";
+                var countryFilter = "";
+                int countryNr = countryUrl.Count;
+                int currentItem = 1;
+
+                foreach (var countUri in countryUrl)
+                {                 
+                    if(currentItem < countryNr)
+                        countryFilter += "str(?countryLink) = \"" + countUri.Trim() + "\" || ";
+                    else if(currentItem == countryNr)
+                        countryFilter += "str(?countryLink) = \"" + countUri.Trim() + "\"";
+
+                    currentItem++;
+                }
+                sparqlQuery += Environment.NewLine + "filter("+countryFilter+")";
                 orderBy = "?an";
             }
-            if (!String.IsNullOrEmpty(category))
+
+            #region old filtration categ/subcateg
+
+            /*if (!String.IsNullOrEmpty(category))
             {
                 sparqlQuery += Environment.NewLine + "filter(regex(str(?categ), \"" + category.Trim() + "\"))";
                 orderBy = "?an";
@@ -44,16 +63,19 @@ namespace Gexp_DataWorker.Controller
             {
                 sparqlQuery += Environment.NewLine + "filter(regex(?subcateg, \"" + subCategory.Trim() + "\"))";
                 orderBy = "?an";
-            }
+            }*/
+
+            #endregion
+
             if (!String.IsNullOrEmpty(yearStart) && String.IsNullOrEmpty(yearEnd))
-                sparqlQuery += Environment.NewLine + "filter((?an >= '" + yearStart.Trim() + "'^^xsd:int))";
+                sparqlQuery += Environment.NewLine + "filter((str(?an) >= '" + yearStart.Trim() + "'))";
             if (!String.IsNullOrEmpty(yearEnd) && String.IsNullOrEmpty(yearStart))
-                sparqlQuery += Environment.NewLine + "filter((?an <= '" + yearEnd.Trim() + "'^^xsd:int))";
+                sparqlQuery += Environment.NewLine + "filter((str(?an) <= '" + yearEnd.Trim() + "'))";
             if (!String.IsNullOrEmpty(yearStart) && !String.IsNullOrEmpty(yearEnd))
-                sparqlQuery += Environment.NewLine + "filter((?an >= '" + yearStart.Trim() + "'^^xsd:int && ?an < '" + yearEnd.Trim() + "'^^xsd:int))";
+                sparqlQuery += Environment.NewLine + "filter((str(?an) >= '" + yearStart.Trim() + "' && str(?an) < '" + yearEnd.Trim() + "'))";
 
             if(!String.IsNullOrEmpty(gen))
-                sparqlQuery += "filter(regex(?gender, \""+gen.Trim()+"\"))";
+                sparqlQuery += Environment.NewLine + "filter(str(?gender) = \""+gen.Trim()+"\")";
 
             if (orderBy != "")
                 sparqlQuery += Environment.NewLine + "} order by " + orderBy;
@@ -85,6 +107,7 @@ namespace Gexp_DataWorker.Controller
                         respItem.Year = itemsResult[2].ToString().Split('^')[0];
                         respItem.Value = itemsResult[3].ToString().Split('^')[0];
                         respItem.Gender = itemsResult[6].ToString();
+                        respItem.Indicator = itemsResult[7].ToString();
 
                         responseList.Add(respItem);
                     }

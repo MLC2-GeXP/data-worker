@@ -14,5 +14,6 @@ namespace Gexp_DataWorker.Models
         public string Year { get; set; }
         public string Value { get; set; }
         public string Gender { get; set; }
+        public string Indicator { get; set; }
     }
 }
