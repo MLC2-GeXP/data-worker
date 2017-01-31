@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aland_Islands">
+    <dc:identifier>AX</dc:identifier>
+    <dc:identifier>Aland Islands</dc:identifier>
+    <dc:identifier>ALAND ISLANDS</dc:identifier>
+    <dc:identifier>Aland islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_African_Republic">
+    <dc:identifier>CF</dc:identifier>
+    <dc:identifier>CENTRAL AFRICAN REPUBLIC</dc:identifier>
+    <dc:identifier>central african republic</dc:identifier>
+    <dc:identifier>Central African Republic</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigeria">
+    <dc:identifier>Nigeria</dc:identifier>
+    <dc:identifier>nigeria</dc:identifier>
+    <dc:identifier>NG</dc:identifier>
+    <dc:identifier>NIGERIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sao_Tomé_and_Príncipe">
+    <dc:identifier>Sao Tomé and Príncipe</dc:identifier>
+    <dc:identifier>SAO TOME AND PRINCIPE</dc:identifier>
+    <dc:identifier>SaO TOMé AND PRíNCIPE</dc:identifier>
+    <dc:identifier>sao tomé and príncipe</dc:identifier>
+    <dc:identifier>sao tome and principe</dc:identifier>
+    <dc:identifier>Sao Tome and Principe</dc:identifier>
+    <dc:identifier>ST</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madagascar">
+    <dc:identifier>MG</dc:identifier>
+    <dc:identifier>madagascar</dc:identifier>
+    <dc:identifier>MADAGASCAR</dc:identifier>
+    <dc:identifier>Madagascar</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azerbaijan">
+    <dc:identifier>Azerbaijan</dc:identifier>
+    <dc:identifier>azerbaijan</dc:identifier>
+    <dc:identifier>AZ</dc:identifier>
+    <dc:identifier>AZERBAIJAN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Somalia">
+    <dc:identifier>somalia</dc:identifier>
+    <dc:identifier>SO</dc:identifier>
+    <dc:identifier>SOMALIA</dc:identifier>
+    <dc:identifier>Somalia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Virgin_Islands">
+    <dc:identifier>VI</dc:identifier>
+    <dc:identifier>UNITED STATES VIRGIN ISLANDS</dc:identifier>
+    <dc:identifier>United States Virgin Islands</dc:identifier>
+    <dc:identifier>united states virgin islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+    <dc:identifier>Indonesia</dc:identifier>
+    <dc:identifier>indonesia</dc:identifier>
+    <dc:identifier>INDONESIA</dc:identifier>
+    <dc:identifier>ID</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qatar">
+    <dc:identifier>QATAR</dc:identifier>
+    <dc:identifier>QA</dc:identifier>
+    <dc:identifier>qatar</dc:identifier>
+    <dc:identifier>Qatar</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallis_and_Futuna">
+    <dc:identifier>Wallis and Futuna</dc:identifier>
+    <dc:identifier>WALLIS AND FUTUNA</dc:identifier>
+    <dc:identifier>WF</dc:identifier>
+    <dc:identifier>wallis and futuna</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan">
+    <dc:identifier>JAPAN</dc:identifier>
+    <dc:identifier>JP</dc:identifier>
+    <dc:identifier>Japan</dc:identifier>
+    <dc:identifier>japan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Timor">
+    <dc:identifier>east timor</dc:identifier>
+    <dc:identifier>East Timor</dc:identifier>
+    <dc:identifier>EAST TIMOR</dc:identifier>
+    <dc:identifier>TL</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cook_Islands">
+    <dc:identifier>cook islands</dc:identifier>
+    <dc:identifier>Cook Islands</dc:identifier>
+    <dc:identifier>COOK ISLANDS</dc:identifier>
+    <dc:identifier>CK</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominica">
+    <dc:identifier>dominica</dc:identifier>
+    <dc:identifier>Dominica</dc:identifier>
+    <dc:identifier>DM</dc:identifier>
+    <dc:identifier>DOMINICA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austria">
+    <dc:identifier>Austria</dc:identifier>
+    <dc:identifier>AUSTRIA</dc:identifier>
+    <dc:identifier>austria</dc:identifier>
+    <dc:identifier>AT</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiji">
+    <dc:identifier>FIJI</dc:identifier>
+    <dc:identifier>FJ</dc:identifier>
+    <dc:identifier>fiji</dc:identifier>
+    <dc:identifier>Fiji</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Togo">
+    <dc:identifier>Togo</dc:identifier>
+    <dc:identifier>TOGO</dc:identifier>
+    <dc:identifier>togo</dc:identifier>
+    <dc:identifier>TG</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grenada">
+    <dc:identifier>GD</dc:identifier>
+    <dc:identifier>grenada</dc:identifier>
+    <dc:identifier>Grenada</dc:identifier>
+    <dc:identifier>GRENADA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tunisia">
+    <dc:identifier>Tunisia</dc:identifier>
+    <dc:identifier>tunisia</dc:identifier>
+    <dc:identifier>TN</dc:identifier>
+    <dc:identifier>TUNISIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/People's_Republic_of_China">
+    <dc:identifier>People's Republic of China</dc:identifier>
+    <dc:identifier>CN</dc:identifier>
+    <dc:identifier>PEOPLE'S REPUBLIC OF CHINA</dc:identifier>
+    <dc:identifier>people's republic of china</dc:identifier>
+    <dc:identifier>China</dc:identifier>
+    <dc:identifier>CHINA</dc:identifier>
+    <dc:identifier>china</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chad">
+    <dc:identifier>Chad</dc:identifier>
+    <dc:identifier>CHAD</dc:identifier>
+    <dc:identifier>chad</dc:identifier>
+    <dc:identifier>TD</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denmark">
+    <dc:identifier>Denmark</dc:identifier>
+    <dc:identifier>DK</dc:identifier>
+    <dc:identifier>denmark</dc:identifier>
+    <dc:identifier>DENMARK</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cuba">
+    <dc:identifier>Cuba</dc:identifier>
+    <dc:identifier>CUBA</dc:identifier>
+    <dc:identifier>CU</dc:identifier>
+    <dc:identifier>cuba</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belarus">
+    <dc:identifier>Belarus</dc:identifier>
+    <dc:identifier>belarus</dc:identifier>
+    <dc:identifier>BY</dc:identifier>
+    <dc:identifier>BELARUS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iran">
+    <dc:identifier>IR</dc:identifier>
+    <dc:identifier>iran, islamic republic of</dc:identifier>
+    <dc:identifier>IRAN, ISLAMIC REPUBLIC OF</dc:identifier>
+    <dc:identifier>Iran, Islamic Republic of</dc:identifier>
+    <dc:identifier>iran</dc:identifier>
+    <dc:identifier>IRAN</dc:identifier>
+    <dc:identifier>Iran</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippines">
+    <dc:identifier>PHILIPPINES</dc:identifier>
+    <dc:identifier>philippines</dc:identifier>
+    <dc:identifier>Philippines</dc:identifier>
+    <dc:identifier>PH</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Falkland_Islands">
+    <dc:identifier>FK</dc:identifier>
+    <dc:identifier>Falkland Islands</dc:identifier>
+    <dc:identifier>falkland islands</dc:identifier>
+    <dc:identifier>FALKLAND ISLANDS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mozambique">
+    <dc:identifier>MZ</dc:identifier>
+    <dc:identifier>Mozambique</dc:identifier>
+    <dc:identifier>MOZAMBIQUE</dc:identifier>
+    <dc:identifier>mozambique</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honduras">
+    <dc:identifier>HN</dc:identifier>
+    <dc:identifier>HONDURAS</dc:identifier>
+    <dc:identifier>honduras</dc:identifier>
+    <dc:identifier>Honduras</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montserrat">
+    <dc:identifier>MS</dc:identifier>
+    <dc:identifier>MONTSERRAT</dc:identifier>
+    <dc:identifier>montserrat</dc:identifier>
+    <dc:identifier>Montserrat</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Gambia">
+    <dc:identifier>THE GAMBIA</dc:identifier>
+    <dc:identifier>The Gambia</dc:identifier>
+    <dc:identifier>GM</dc:identifier>
+    <dc:identifier>the gambia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom">
+    <dc:identifier>GB</dc:identifier>
+    <dc:identifier>United Kingdom</dc:identifier>
+    <dc:identifier>UNITED KINGDOM</dc:identifier>
+    <dc:identifier>united kingdom</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armenia">
+    <dc:identifier>armenia</dc:identifier>
+    <dc:identifier>ARMENIA</dc:identifier>
+    <dc:identifier>AM</dc:identifier>
+    <dc:identifier>Armenia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vietnam">
+    <dc:identifier>VIETNAM</dc:identifier>
+    <dc:identifier>VN</dc:identifier>
+    <dc:identifier>Vietnam</dc:identifier>
+    <dc:identifier>Viet Nam</dc:identifier>
+    <dc:identifier>vietnam</dc:identifier>
+    <dc:identifier>VIET NAM</dc:identifier>
+    <dc:identifier>viet nam</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burkina_Faso">
+    <dc:identifier>burkina faso</dc:identifier>
+    <dc:identifier>BF</dc:identifier>
+    <dc:identifier>BURKINA FASO</dc:identifier>
+    <dc:identifier>Burkina Faso</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Barthélemy">
+    <dc:identifier>Saint Barthélemy</dc:identifier>
+    <dc:identifier>SAINT BARTHéLEMY</dc:identifier>
+    <dc:identifier>BL</dc:identifier>
+    <dc:identifier>saint barthélemy</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Djibouti">
+    <dc:identifier>DJ</dc:identifier>
+    <dc:identifier>Djibouti</dc:identifier>
+    <dc:identifier>DJIBOUTI</dc:identifier>
+    <dc:identifier>djibouti</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monaco">
+    <dc:identifier>monaco</dc:identifier>
+    <dc:identifier>Monaco</dc:identifier>
+    <dc:identifier>MC</dc:identifier>
+    <dc:identifier>MONACO</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahrain">
+    <dc:identifier>BH</dc:identifier>
+    <dc:identifier>bahrain</dc:identifier>
+    <dc:identifier>Bahrain</dc:identifier>
+    <dc:identifier>BAHRAIN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bahamas">
+    <dc:identifier>The Bahamas</dc:identifier>
+    <dc:identifier>THE BAHAMAS</dc:identifier>
+    <dc:identifier>BS</dc:identifier>
+    <dc:identifier>the bahamas</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Sahara">
+    <dc:identifier>western sahara</dc:identifier>
+    <dc:identifier>WESTERN SAHARA</dc:identifier>
+    <dc:identifier>Western Sahara</dc:identifier>
+    <dc:identifier>EH</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkmenistan">
+    <dc:identifier>TURKMENISTAN</dc:identifier>
+    <dc:identifier>turkmenistan</dc:identifier>
+    <dc:identifier>TM</dc:identifier>
+    <dc:identifier>Turkmenistan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korea">
+    <dc:identifier>korea, republic of</dc:identifier>
+    <dc:identifier>KR</dc:identifier>
+    <dc:identifier>KOREA, REPUBLIC OF</dc:identifier>
+    <dc:identifier>Korea, Republic of</dc:identifier>
+    <dc:identifier>south korea</dc:identifier>
+    <dc:identifier>South Korea</dc:identifier>
+    <dc:identifier>SOUTH KOREA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokelau">
+    <dc:identifier>TK</dc:identifier>
+    <dc:identifier>tokelau</dc:identifier>
+    <dc:identifier>TOKELAU</dc:identifier>
+    <dc:identifier>Tokelau</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syria">
+    <dc:identifier>syrian arab republic</dc:identifier>
+    <dc:identifier>syria</dc:identifier>
+    <dc:identifier>SY</dc:identifier>
+    <dc:identifier>Syrian Arab Republic</dc:identifier>
+    <dc:identifier>SYRIA</dc:identifier>
+    <dc:identifier>Syria</dc:identifier>
+    <dc:identifier>SYRIAN ARAB REPUBLIC</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malta">
+    <dc:identifier>MT</dc:identifier>
+    <dc:identifier>Malta</dc:identifier>
+    <dc:identifier>MALTA</dc:identifier>
+    <dc:identifier>malta</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Costa_Rica">
+    <dc:identifier>COSTA RICA</dc:identifier>
+    <dc:identifier>costa rica</dc:identifier>
+    <dc:identifier>CR</dc:identifier>
+    <dc:identifier>Costa Rica</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aruba">
+    <dc:identifier>aruba</dc:identifier>
+    <dc:identifier>Aruba</dc:identifier>
+    <dc:identifier>ARUBA</dc:identifier>
+    <dc:identifier>AW</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenland">
+    <dc:identifier>GL</dc:identifier>
+    <dc:identifier>Greenland</dc:identifier>
+    <dc:identifier>GREENLAND</dc:identifier>
+    <dc:identifier>greenland</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesotho">
+    <dc:identifier>LESOTHO</dc:identifier>
+    <dc:identifier>LS</dc:identifier>
+    <dc:identifier>Lesotho</dc:identifier>
+    <dc:identifier>lesotho</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cambodia">
+    <dc:identifier>CAMBODIA</dc:identifier>
+    <dc:identifier>Cambodia</dc:identifier>
+    <dc:identifier>KH</dc:identifier>
+    <dc:identifier>cambodia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonga">
+    <dc:identifier>tonga</dc:identifier>
+    <dc:identifier>Tonga</dc:identifier>
+    <dc:identifier>TO</dc:identifier>
+    <dc:identifier>TONGA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liechtenstein">
+    <dc:identifier>LI</dc:identifier>
+    <dc:identifier>Liechtenstein</dc:identifier>
+    <dc:identifier>liechtenstein</dc:identifier>
+    <dc:identifier>LIECHTENSTEIN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equatorial_Guinea">
+    <dc:identifier>GQ</dc:identifier>
+    <dc:identifier>Equatorial Guinea</dc:identifier>
+    <dc:identifier>EQUATORIAL GUINEA</dc:identifier>
+    <dc:identifier>equatorial guinea</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiwan">
+    <dc:identifier>taiwan, province of china</dc:identifier>
+    <dc:identifier>TAIWAN, PROVINCE OF CHINA</dc:identifier>
+    <dc:identifier>TW</dc:identifier>
+    <dc:identifier>Taiwan, Province of China</dc:identifier>
+    <dc:identifier>taiwan</dc:identifier>
+    <dc:identifier>Taiwan</dc:identifier>
+    <dc:identifier>TAIWAN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andorra">
+    <dc:identifier>ANDORRA</dc:identifier>
+    <dc:identifier>andorra</dc:identifier>
+    <dc:identifier>AD</dc:identifier>
+    <dc:identifier>Andorra</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uzbekistan">
+    <dc:identifier>UZ</dc:identifier>
+    <dc:identifier>UZBEKISTAN</dc:identifier>
+    <dc:identifier>Uzbekistan</dc:identifier>
+    <dc:identifier>uzbekistan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolivia">
+    <dc:identifier>Bolivia</dc:identifier>
+    <dc:identifier>Bolivia, Plurinational State of</dc:identifier>
+    <dc:identifier>BOLIVIA</dc:identifier>
+    <dc:identifier>BO</dc:identifier>
+    <dc:identifier>bolivia</dc:identifier>
+    <dc:identifier>bolivia, plurinational state of</dc:identifier>
+    <dc:identifier>BOLIVIA, PLURINATIONAL STATE OF</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Salvador">
+    <dc:identifier>SV</dc:identifier>
+    <dc:identifier>EL SALVADOR</dc:identifier>
+    <dc:identifier>El Salvador</dc:identifier>
+    <dc:identifier>el salvador</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayotte">
+    <dc:identifier>MAYOTTE</dc:identifier>
+    <dc:identifier>YT</dc:identifier>
+    <dc:identifier>mayotte</dc:identifier>
+    <dc:identifier>Mayotte</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palau">
+    <dc:identifier>PW</dc:identifier>
+    <dc:identifier>palau</dc:identifier>
+    <dc:identifier>PALAU</dc:identifier>
+    <dc:identifier>Palau</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palestinian_territories">
+    <dc:identifier>PS</dc:identifier>
+    <dc:identifier>Palestinian Territory, Occupied</dc:identifier>
+    <dc:identifier>Palestinian territories</dc:identifier>
+    <dc:identifier>palestinian territory, occupied</dc:identifier>
+    <dc:identifier>PALESTINIAN TERRITORY, OCCUPIED</dc:identifier>
+    <dc:identifier>PALESTINIAN TERRITORIES</dc:identifier>
+    <dc:identifier>palestinian territories</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vatican_City">
+    <dc:identifier>VA</dc:identifier>
+    <dc:identifier>holy see (vatican city state)</dc:identifier>
+    <dc:identifier>Holy See (Vatican City State)</dc:identifier>
+    <dc:identifier>HOLY SEE (VATICAN CITY STATE)</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saudi_Arabia">
+    <dc:identifier>saudi arabia</dc:identifier>
+    <dc:identifier>SA</dc:identifier>
+    <dc:identifier>SAUDI ARABIA</dc:identifier>
+    <dc:identifier>Saudi Arabia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liberia">
+    <dc:identifier>LR</dc:identifier>
+    <dc:identifier>LIBERIA</dc:identifier>
+    <dc:identifier>Liberia</dc:identifier>
+    <dc:identifier>liberia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Helena,_Ascension_and_Tristan_da_Cunha">
+    <dc:identifier>Saint Helena, Ascension and Tristan da Cunha</dc:identifier>
+    <dc:identifier>SH</dc:identifier>
+    <dc:identifier>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</dc:identifier>
+    <dc:identifier>saint helena, ascension and tristan da cunha</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Comoros">
+    <dc:identifier>KM</dc:identifier>
+    <dc:identifier>COMOROS</dc:identifier>
+    <dc:identifier>Comoros</dc:identifier>
+    <dc:identifier>comoros</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montenegro">
+    <dc:identifier>montenegro</dc:identifier>
+    <dc:identifier>Montenegro</dc:identifier>
+    <dc:identifier>MONTENEGRO</dc:identifier>
+    <dc:identifier>ME</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angola">
+    <dc:identifier>Angola</dc:identifier>
+    <dc:identifier>AO</dc:identifier>
+    <dc:identifier>ANGOLA</dc:identifier>
+    <dc:identifier>angola</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Australia">
+    <dc:identifier>Australia</dc:identifier>
+    <dc:identifier>australia</dc:identifier>
+    <dc:identifier>AUSTRALIA</dc:identifier>
+    <dc:identifier>AU</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Kitts_and_Nevis">
+    <dc:identifier>saint kitts and nevis</dc:identifier>
+    <dc:identifier>SAINT KITTS AND NEVIS</dc:identifier>
+    <dc:identifier>Saint Kitts and Nevis</dc:identifier>
+    <dc:identifier>KN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haiti">
+    <dc:identifier>HAITI</dc:identifier>
+    <dc:identifier>HT</dc:identifier>
+    <dc:identifier>haiti</dc:identifier>
+    <dc:identifier>Haiti</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zimbabwe">
+    <dc:identifier>Zimbabwe</dc:identifier>
+    <dc:identifier>ZW</dc:identifier>
+    <dc:identifier>ZIMBABWE</dc:identifier>
+    <dc:identifier>zimbabwe</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oman">
+    <dc:identifier>OM</dc:identifier>
+    <dc:identifier>Oman</dc:identifier>
+    <dc:identifier>OMAN</dc:identifier>
+    <dc:identifier>oman</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Pierre_and_Miquelon">
+    <dc:identifier>saint pierre and miquelon</dc:identifier>
+    <dc:identifier>SAINT PIERRE AND MIQUELON</dc:identifier>
+    <dc:identifier>Saint Pierre and Miquelon</dc:identifier>
+    <dc:identifier>PM</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latvia">
+    <dc:identifier>Latvia</dc:identifier>
+    <dc:identifier>latvia</dc:identifier>
+    <dc:identifier>LV</dc:identifier>
+    <dc:identifier>LATVIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suriname">
+    <dc:identifier>Suriname</dc:identifier>
+    <dc:identifier>SR</dc:identifier>
+    <dc:identifier>SURINAME</dc:identifier>
+    <dc:identifier>suriname</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norway">
+    <dc:identifier>Norway</dc:identifier>
+    <dc:identifier>norway</dc:identifier>
+    <dc:identifier>NORWAY</dc:identifier>
+    <dc:identifier>NO</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland">
+    <dc:identifier>Switzerland</dc:identifier>
+    <dc:identifier>CH</dc:identifier>
+    <dc:identifier>SWITZERLAND</dc:identifier>
+    <dc:identifier>switzerland</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benin">
+    <dc:identifier>BJ</dc:identifier>
+    <dc:identifier>Benin</dc:identifier>
+    <dc:identifier>benin</dc:identifier>
+    <dc:identifier>BENIN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belize">
+    <dc:identifier>Belize</dc:identifier>
+    <dc:identifier>BZ</dc:identifier>
+    <dc:identifier>BELIZE</dc:identifier>
+    <dc:identifier>belize</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands">
+    <dc:identifier>South Georgia and the South Sandwich Islands</dc:identifier>
+    <dc:identifier>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</dc:identifier>
+    <dc:identifier>GS</dc:identifier>
+    <dc:identifier>south georgia and the south sandwich islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eritrea">
+    <dc:identifier>ERITREA</dc:identifier>
+    <dc:identifier>eritrea</dc:identifier>
+    <dc:identifier>ER</dc:identifier>
+    <dc:identifier>Eritrea</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan">
+    <dc:identifier>JO</dc:identifier>
+    <dc:identifier>jordan</dc:identifier>
+    <dc:identifier>JORDAN</dc:identifier>
+    <dc:identifier>Jordan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanuatu">
+    <dc:identifier>VU</dc:identifier>
+    <dc:identifier>Vanuatu</dc:identifier>
+    <dc:identifier>vanuatu</dc:identifier>
+    <dc:identifier>VANUATU</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federated_States_of_Micronesia">
+    <dc:identifier>FM</dc:identifier>
+    <dc:identifier>FEDERATED STATES OF MICRONESIA</dc:identifier>
+    <dc:identifier>federated states of micronesia</dc:identifier>
+    <dc:identifier>Federated States of Micronesia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cape_Verde">
+    <dc:identifier>Cape Verde</dc:identifier>
+    <dc:identifier>CV</dc:identifier>
+    <dc:identifier>CAPE VERDE</dc:identifier>
+    <dc:identifier>cape verde</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venezuela">
+    <dc:identifier>VENEZUELA</dc:identifier>
+    <dc:identifier>venezuela</dc:identifier>
+    <dc:identifier>venezuela, bolivarian republic of</dc:identifier>
+    <dc:identifier>VENEZUELA, BOLIVARIAN REPUBLIC OF</dc:identifier>
+    <dc:identifier>Venezuela, Bolivarian Republic of</dc:identifier>
+    <dc:identifier>Venezuela</dc:identifier>
+    <dc:identifier>VE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Polynesia">
+    <dc:identifier>PF</dc:identifier>
+    <dc:identifier>FRENCH POLYNESIA</dc:identifier>
+    <dc:identifier>French Polynesia</dc:identifier>
+    <dc:identifier>french polynesia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gibraltar">
+    <dc:identifier>GI</dc:identifier>
+    <dc:identifier>GIBRALTAR</dc:identifier>
+    <dc:identifier>gibraltar</dc:identifier>
+    <dc:identifier>Gibraltar</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicaragua">
+    <dc:identifier>nicaragua</dc:identifier>
+    <dc:identifier>NI</dc:identifier>
+    <dc:identifier>NICARAGUA</dc:identifier>
+    <dc:identifier>Nicaragua</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jersey">
+    <dc:identifier>jersey</dc:identifier>
+    <dc:identifier>Jersey</dc:identifier>
+    <dc:identifier>JE</dc:identifier>
+    <dc:identifier>JERSEY</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malaysia">
+    <dc:identifier>Malaysia</dc:identifier>
+    <dc:identifier>MY</dc:identifier>
+    <dc:identifier>MALAYSIA</dc:identifier>
+    <dc:identifier>malaysia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweden">
+    <dc:identifier>SE</dc:identifier>
+    <dc:identifier>sweden</dc:identifier>
+    <dc:identifier>SWEDEN</dc:identifier>
+    <dc:identifier>Sweden</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papua_New_Guinea">
+    <dc:identifier>PAPUA NEW GUINEA</dc:identifier>
+    <dc:identifier>PG</dc:identifier>
+    <dc:identifier>Papua New Guinea</dc:identifier>
+    <dc:identifier>papua new guinea</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uganda">
+    <dc:identifier>Uganda</dc:identifier>
+    <dc:identifier>UG</dc:identifier>
+    <dc:identifier>uganda</dc:identifier>
+    <dc:identifier>UGANDA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cameroon">
+    <dc:identifier>Cameroon</dc:identifier>
+    <dc:identifier>CM</dc:identifier>
+    <dc:identifier>CAMEROON</dc:identifier>
+    <dc:identifier>cameroon</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guernsey">
+    <dc:identifier>Guernsey</dc:identifier>
+    <dc:identifier>guernsey</dc:identifier>
+    <dc:identifier>GUERNSEY</dc:identifier>
+    <dc:identifier>GG</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombia">
+    <dc:identifier>Colombia</dc:identifier>
+    <dc:identifier>CO</dc:identifier>
+    <dc:identifier>COLOMBIA</dc:identifier>
+    <dc:identifier>colombia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cayman_Islands">
+    <dc:identifier>CAYMAN ISLANDS</dc:identifier>
+    <dc:identifier>Cayman Islands</dc:identifier>
+    <dc:identifier>cayman islands</dc:identifier>
+    <dc:identifier>KY</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romania">
+    <dc:identifier>ROMANIA</dc:identifier>
+    <dc:identifier>RO</dc:identifier>
+    <dc:identifier>romania</dc:identifier>
+    <dc:identifier>Romania</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serbia">
+    <dc:identifier>serbia</dc:identifier>
+    <dc:identifier>RS</dc:identifier>
+    <dc:identifier>Serbia</dc:identifier>
+    <dc:identifier>SERBIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Ireland">
+    <dc:identifier>Republic of Ireland</dc:identifier>
+    <dc:identifier>republic of ireland</dc:identifier>
+    <dc:identifier>REPUBLIC OF IRELAND</dc:identifier>
+    <dc:identifier>IE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sudan">
+    <dc:identifier>Sudan</dc:identifier>
+    <dc:identifier>SD</dc:identifier>
+    <dc:identifier>sudan</dc:identifier>
+    <dc:identifier>SUDAN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bulgaria">
+    <dc:identifier>BULGARIA</dc:identifier>
+    <dc:identifier>Bulgaria</dc:identifier>
+    <dc:identifier>bulgaria</dc:identifier>
+    <dc:identifier>BG</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Samoa">
+    <dc:identifier>AMERICAN SAMOA</dc:identifier>
+    <dc:identifier>AS</dc:identifier>
+    <dc:identifier>american samoa</dc:identifier>
+    <dc:identifier>American Samoa</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thailand">
+    <dc:identifier>TH</dc:identifier>
+    <dc:identifier>THAILAND</dc:identifier>
+    <dc:identifier>Thailand</dc:identifier>
+    <dc:identifier>thailand</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iraq">
+    <dc:identifier>IRAQ</dc:identifier>
+    <dc:identifier>iraq</dc:identifier>
+    <dc:identifier>Iraq</dc:identifier>
+    <dc:identifier>IQ</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heard_Island_and_McDonald_Islands">
+    <dc:identifier>HM</dc:identifier>
+    <dc:identifier>Heard Island and McDonald Islands</dc:identifier>
+    <dc:identifier>heard island and mcdonald islands</dc:identifier>
+    <dc:identifier>HEARD ISLAND AND MCDONALD ISLANDS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mexico">
+    <dc:identifier>MEXICO</dc:identifier>
+    <dc:identifier>mexico</dc:identifier>
+    <dc:identifier>MX</dc:identifier>
+    <dc:identifier>Mexico</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burundi">
+    <dc:identifier>BI</dc:identifier>
+    <dc:identifier>BURUNDI</dc:identifier>
+    <dc:identifier>burundi</dc:identifier>
+    <dc:identifier>Burundi</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lebanon">
+    <dc:identifier>lebanon</dc:identifier>
+    <dc:identifier>LB</dc:identifier>
+    <dc:identifier>Lebanon</dc:identifier>
+    <dc:identifier>LEBANON</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_Islands">
+    <dc:identifier>MARSHALL ISLANDS</dc:identifier>
+    <dc:identifier>Marshall Islands</dc:identifier>
+    <dc:identifier>MH</dc:identifier>
+    <dc:identifier>marshall islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay">
+    <dc:identifier>UY</dc:identifier>
+    <dc:identifier>uruguay</dc:identifier>
+    <dc:identifier>Uruguay</dc:identifier>
+    <dc:identifier>URUGUAY</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauritius">
+    <dc:identifier>MAURITIUS</dc:identifier>
+    <dc:identifier>mauritius</dc:identifier>
+    <dc:identifier>MU</dc:identifier>
+    <dc:identifier>Mauritius</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyprus">
+    <dc:identifier>CYPRUS</dc:identifier>
+    <dc:identifier>CY</dc:identifier>
+    <dc:identifier>Cyprus</dc:identifier>
+    <dc:identifier>cyprus</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swaziland">
+    <dc:identifier>SWAZILAND</dc:identifier>
+    <dc:identifier>Swaziland</dc:identifier>
+    <dc:identifier>swaziland</dc:identifier>
+    <dc:identifier>SZ</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seychelles">
+    <dc:identifier>SC</dc:identifier>
+    <dc:identifier>SEYCHELLES</dc:identifier>
+    <dc:identifier>Seychelles</dc:identifier>
+    <dc:identifier>seychelles</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgia_(country)">
+    <dc:identifier>GEORGIA</dc:identifier>
+    <dc:identifier>GE</dc:identifier>
+    <dc:identifier>Georgia</dc:identifier>
+    <dc:identifier>georgia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germany">
+    <dc:identifier>GERMANY</dc:identifier>
+    <dc:identifier>germany</dc:identifier>
+    <dc:identifier>Germany</dc:identifier>
+    <dc:identifier>DE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italy">
+    <dc:identifier>Italy</dc:identifier>
+    <dc:identifier>italy</dc:identifier>
+    <dc:identifier>ITALY</dc:identifier>
+    <dc:identifier>IT</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slovakia">
+    <dc:identifier>slovakia</dc:identifier>
+    <dc:identifier>SLOVAKIA</dc:identifier>
+    <dc:identifier>Slovakia</dc:identifier>
+    <dc:identifier>SK</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Senegal">
+    <dc:identifier>SENEGAL</dc:identifier>
+    <dc:identifier>senegal</dc:identifier>
+    <dc:identifier>Senegal</dc:identifier>
+    <dc:identifier>SN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bhutan">
+    <dc:identifier>BT</dc:identifier>
+    <dc:identifier>Bhutan</dc:identifier>
+    <dc:identifier>BHUTAN</dc:identifier>
+    <dc:identifier>bhutan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Macedonia">
+    <dc:identifier>macedonia, the former yugoslav republic of</dc:identifier>
+    <dc:identifier>MK</dc:identifier>
+    <dc:identifier>macedonia</dc:identifier>
+    <dc:identifier>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</dc:identifier>
+    <dc:identifier>Macedonia</dc:identifier>
+    <dc:identifier>Macedonia, the former Yugoslav Republic of</dc:identifier>
+    <dc:identifier>MACEDONIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canada">
+    <dc:identifier>CA</dc:identifier>
+    <dc:identifier>Canada</dc:identifier>
+    <dc:identifier>CANADA</dc:identifier>
+    <dc:identifier>canada</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Caledonia">
+    <dc:identifier>New Caledonia</dc:identifier>
+    <dc:identifier>NEW CALEDONIA</dc:identifier>
+    <dc:identifier>NC</dc:identifier>
+    <dc:identifier>new caledonia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands">
+    <dc:identifier>Netherlands</dc:identifier>
+    <dc:identifier>NETHERLANDS</dc:identifier>
+    <dc:identifier>NL</dc:identifier>
+    <dc:identifier>netherlands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bosnia_and_Herzegovina">
+    <dc:identifier>Bosnia and Herzegovina</dc:identifier>
+    <dc:identifier>bosnia and herzegovina</dc:identifier>
+    <dc:identifier>BA</dc:identifier>
+    <dc:identifier>BOSNIA AND HERZEGOVINA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mongolia">
+    <dc:identifier>MN</dc:identifier>
+    <dc:identifier>Mongolia</dc:identifier>
+    <dc:identifier>MONGOLIA</dc:identifier>
+    <dc:identifier>mongolia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabon">
+    <dc:identifier>GABON</dc:identifier>
+    <dc:identifier>Gabon</dc:identifier>
+    <dc:identifier>GA</dc:identifier>
+    <dc:identifier>gabon</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anguilla">
+    <dc:identifier>ANGUILLA</dc:identifier>
+    <dc:identifier>Anguilla</dc:identifier>
+    <dc:identifier>anguilla</dc:identifier>
+    <dc:identifier>AI</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Korea">
+    <dc:identifier>Korea, Democratic People's Republic of</dc:identifier>
+    <dc:identifier>north korea</dc:identifier>
+    <dc:identifier>KP</dc:identifier>
+    <dc:identifier>NORTH KOREA</dc:identifier>
+    <dc:identifier>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</dc:identifier>
+    <dc:identifier>korea, democratic people's republic of</dc:identifier>
+    <dc:identifier>North Korea</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russia">
+    <dc:identifier>Russia</dc:identifier>
+    <dc:identifier>RU</dc:identifier>
+    <dc:identifier>russia</dc:identifier>
+    <dc:identifier>RUSSIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norfolk_Island">
+    <dc:identifier>Norfolk Island</dc:identifier>
+    <dc:identifier>norfolk island</dc:identifier>
+    <dc:identifier>NF</dc:identifier>
+    <dc:identifier>NORFOLK ISLAND</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethiopia">
+    <dc:identifier>ET</dc:identifier>
+    <dc:identifier>ethiopia</dc:identifier>
+    <dc:identifier>ETHIOPIA</dc:identifier>
+    <dc:identifier>Ethiopia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Indian_Ocean_Territory">
+    <dc:identifier>British Indian Ocean Territory</dc:identifier>
+    <dc:identifier>IO</dc:identifier>
+    <dc:identifier>british indian ocean territory</dc:identifier>
+    <dc:identifier>BRITISH INDIAN OCEAN TERRITORY</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazakhstan">
+    <dc:identifier>Kazakhstan</dc:identifier>
+    <dc:identifier>KZ</dc:identifier>
+    <dc:identifier>kazakhstan</dc:identifier>
+    <dc:identifier>KAZAKHSTAN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Croatia">
+    <dc:identifier>HR</dc:identifier>
+    <dc:identifier>Croatia</dc:identifier>
+    <dc:identifier>croatia</dc:identifier>
+    <dc:identifier>CROATIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pakistan">
+    <dc:identifier>PAKISTAN</dc:identifier>
+    <dc:identifier>PK</dc:identifier>
+    <dc:identifier>pakistan</dc:identifier>
+    <dc:identifier>Pakistan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Argentina">
+    <dc:identifier>AR</dc:identifier>
+    <dc:identifier>Argentina</dc:identifier>
+    <dc:identifier>ARGENTINA</dc:identifier>
+    <dc:identifier>argentina</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moldova">
+    <dc:identifier>MOLDOVA, REPUBLIC OF</dc:identifier>
+    <dc:identifier>Moldova</dc:identifier>
+    <dc:identifier>moldova</dc:identifier>
+    <dc:identifier>Moldova, Republic of</dc:identifier>
+    <dc:identifier>MD</dc:identifier>
+    <dc:identifier>MOLDOVA</dc:identifier>
+    <dc:identifier>moldova, republic of</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Afghanistan">
+    <dc:identifier>AF</dc:identifier>
+    <dc:identifier>Afghanistan</dc:identifier>
+    <dc:identifier>AFGHANISTAN</dc:identifier>
+    <dc:identifier>afghanistan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portugal">
+    <dc:identifier>Portugal</dc:identifier>
+    <dc:identifier>PT</dc:identifier>
+    <dc:identifier>portugal</dc:identifier>
+    <dc:identifier>PORTUGAL</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States">
+    <dc:identifier>US</dc:identifier>
+    <dc:identifier>United States</dc:identifier>
+    <dc:identifier>UNITED STATES</dc:identifier>
+    <dc:identifier>united states</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuwait">
+    <dc:identifier>KW</dc:identifier>
+    <dc:identifier>Kuwait</dc:identifier>
+    <dc:identifier>KUWAIT</dc:identifier>
+    <dc:identifier>kuwait</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isle_of_Man">
+    <dc:identifier>Isle of Man</dc:identifier>
+    <dc:identifier>ISLE OF MAN</dc:identifier>
+    <dc:identifier>IM</dc:identifier>
+    <dc:identifier>isle of man</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martinique">
+    <dc:identifier>MQ</dc:identifier>
+    <dc:identifier>MARTINIQUE</dc:identifier>
+    <dc:identifier>Martinique</dc:identifier>
+    <dc:identifier>martinique</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iceland">
+    <dc:identifier>Iceland</dc:identifier>
+    <dc:identifier>IS</dc:identifier>
+    <dc:identifier>iceland</dc:identifier>
+    <dc:identifier>ICELAND</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hong_Kong">
+    <dc:identifier>hong kong</dc:identifier>
+    <dc:identifier>Hong Kong</dc:identifier>
+    <dc:identifier>HK</dc:identifier>
+    <dc:identifier>HONG KONG</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guyana">
+    <dc:identifier>Guyana</dc:identifier>
+    <dc:identifier>GY</dc:identifier>
+    <dc:identifier>GUYANA</dc:identifier>
+    <dc:identifier>guyana</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ukraine">
+    <dc:identifier>UA</dc:identifier>
+    <dc:identifier>Ukraine</dc:identifier>
+    <dc:identifier>ukraine</dc:identifier>
+    <dc:identifier>UKRAINE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Democratic_Republic_of_the_Congo">
+    <dc:identifier>DEMOCRATIC REPUBLIC OF THE CONGO</dc:identifier>
+    <dc:identifier>Democratic Republic of the Congo</dc:identifier>
+    <dc:identifier>CD</dc:identifier>
+    <dc:identifier>democratic republic of the congo</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guam">
+    <dc:identifier>Guam</dc:identifier>
+    <dc:identifier>guam</dc:identifier>
+    <dc:identifier>GUAM</dc:identifier>
+    <dc:identifier>GU</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanzania">
+    <dc:identifier>tanzania, united republic of</dc:identifier>
+    <dc:identifier>tanzania</dc:identifier>
+    <dc:identifier>Tanzania</dc:identifier>
+    <dc:identifier>Tanzania, United Republic of</dc:identifier>
+    <dc:identifier>TANZANIA, UNITED REPUBLIC OF</dc:identifier>
+    <dc:identifier>TZ</dc:identifier>
+    <dc:identifier>TANZANIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malawi">
+    <dc:identifier>Malawi</dc:identifier>
+    <dc:identifier>MW</dc:identifier>
+    <dc:identifier>malawi</dc:identifier>
+    <dc:identifier>MALAWI</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chile">
+    <dc:identifier>chile</dc:identifier>
+    <dc:identifier>Chile</dc:identifier>
+    <dc:identifier>CL</dc:identifier>
+    <dc:identifier>CHILE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyrgyzstan">
+    <dc:identifier>KYRGYZSTAN</dc:identifier>
+    <dc:identifier>Kyrgyzstan</dc:identifier>
+    <dc:identifier>KG</dc:identifier>
+    <dc:identifier>kyrgyzstan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Réunion">
+    <dc:identifier>Réunion</dc:identifier>
+    <dc:identifier>RE</dc:identifier>
+    <dc:identifier>réunion</dc:identifier>
+    <dc:identifier>RéUNION</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauritania">
+    <dc:identifier>MAURITANIA</dc:identifier>
+    <dc:identifier>mauritania</dc:identifier>
+    <dc:identifier>MR</dc:identifier>
+    <dc:identifier>Mauritania</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_Leone">
+    <dc:identifier>sierra leone</dc:identifier>
+    <dc:identifier>SL</dc:identifier>
+    <dc:identifier>Sierra Leone</dc:identifier>
+    <dc:identifier>SIERRA LEONE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Libya">
+    <dc:identifier>LIBYA</dc:identifier>
+    <dc:identifier>Libyan Arab Jamahiriya</dc:identifier>
+    <dc:identifier>LIBYAN ARAB JAMAHIRIYA</dc:identifier>
+    <dc:identifier>Libya</dc:identifier>
+    <dc:identifier>LY</dc:identifier>
+    <dc:identifier>libya</dc:identifier>
+    <dc:identifier>libyan arab jamahiriya</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egypt">
+    <dc:identifier>EG</dc:identifier>
+    <dc:identifier>Egypt</dc:identifier>
+    <dc:identifier>egypt</dc:identifier>
+    <dc:identifier>EGYPT</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antarctica">
+    <dc:identifier>antarctica</dc:identifier>
+    <dc:identifier>Antarctica</dc:identifier>
+    <dc:identifier>ANTARCTICA</dc:identifier>
+    <dc:identifier>AQ</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spain">
+    <dc:identifier>SPAIN</dc:identifier>
+    <dc:identifier>ES</dc:identifier>
+    <dc:identifier>Spain</dc:identifier>
+    <dc:identifier>spain</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamaica">
+    <dc:identifier>JAMAICA</dc:identifier>
+    <dc:identifier>JM</dc:identifier>
+    <dc:identifier>Jamaica</dc:identifier>
+    <dc:identifier>jamaica</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guinea-Bissau">
+    <dc:identifier>GW</dc:identifier>
+    <dc:identifier>Guinea-Bissau</dc:identifier>
+    <dc:identifier>GUINEA-BISSAU</dc:identifier>
+    <dc:identifier>guinea-bissau</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkey">
+    <dc:identifier>TURKEY</dc:identifier>
+    <dc:identifier>TR</dc:identifier>
+    <dc:identifier>Turkey</dc:identifier>
+    <dc:identifier>turkey</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Lucia">
+    <dc:identifier>Saint Lucia</dc:identifier>
+    <dc:identifier>saint lucia</dc:identifier>
+    <dc:identifier>SAINT LUCIA</dc:identifier>
+    <dc:identifier>LC</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finland">
+    <dc:identifier>FINLAND</dc:identifier>
+    <dc:identifier>finland</dc:identifier>
+    <dc:identifier>FI</dc:identifier>
+    <dc:identifier>Finland</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morocco">
+    <dc:identifier>Morocco</dc:identifier>
+    <dc:identifier>MA</dc:identifier>
+    <dc:identifier>morocco</dc:identifier>
+    <dc:identifier>MOROCCO</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niue">
+    <dc:identifier>NU</dc:identifier>
+    <dc:identifier>NIUE</dc:identifier>
+    <dc:identifier>niue</dc:identifier>
+    <dc:identifier>Niue</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lithuania">
+    <dc:identifier>LT</dc:identifier>
+    <dc:identifier>lithuania</dc:identifier>
+    <dc:identifier>Lithuania</dc:identifier>
+    <dc:identifier>LITHUANIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algeria">
+    <dc:identifier>Algeria</dc:identifier>
+    <dc:identifier>algeria</dc:identifier>
+    <dc:identifier>DZ</dc:identifier>
+    <dc:identifier>ALGERIA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yemen">
+    <dc:identifier>Yemen</dc:identifier>
+    <dc:identifier>YE</dc:identifier>
+    <dc:identifier>YEMEN</dc:identifier>
+    <dc:identifier>yemen</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luxembourg">
+    <dc:identifier>LUXEMBOURG</dc:identifier>
+    <dc:identifier>LU</dc:identifier>
+    <dc:identifier>luxembourg</dc:identifier>
+    <dc:identifier>Luxembourg</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuvalu">
+    <dc:identifier>TV</dc:identifier>
+    <dc:identifier>TUVALU</dc:identifier>
+    <dc:identifier>Tuvalu</dc:identifier>
+    <dc:identifier>tuvalu</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Africa">
+    <dc:identifier>ZA</dc:identifier>
+    <dc:identifier>South Africa</dc:identifier>
+    <dc:identifier>south africa</dc:identifier>
+    <dc:identifier>SOUTH AFRICA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paraguay">
+    <dc:identifier>Paraguay</dc:identifier>
+    <dc:identifier>paraguay</dc:identifier>
+    <dc:identifier>PY</dc:identifier>
+    <dc:identifier>PARAGUAY</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rwanda">
+    <dc:identifier>RW</dc:identifier>
+    <dc:identifier>RWANDA</dc:identifier>
+    <dc:identifier>Rwanda</dc:identifier>
+    <dc:identifier>rwanda</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbados">
+    <dc:identifier>barbados</dc:identifier>
+    <dc:identifier>BB</dc:identifier>
+    <dc:identifier>Barbados</dc:identifier>
+    <dc:identifier>BARBADOS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands_Antilles">
+    <dc:identifier>Netherlands Antilles</dc:identifier>
+    <dc:identifier>netherlands antilles</dc:identifier>
+    <dc:identifier>AN</dc:identifier>
+    <dc:identifier>NETHERLANDS ANTILLES</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greece">
+    <dc:identifier>GREECE</dc:identifier>
+    <dc:identifier>GR</dc:identifier>
+    <dc:identifier>Greece</dc:identifier>
+    <dc:identifier>greece</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Marino">
+    <dc:identifier>San Marino</dc:identifier>
+    <dc:identifier>SM</dc:identifier>
+    <dc:identifier>SAN MARINO</dc:identifier>
+    <dc:identifier>san marino</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Estonia">
+    <dc:identifier>ESTONIA</dc:identifier>
+    <dc:identifier>Estonia</dc:identifier>
+    <dc:identifier>estonia</dc:identifier>
+    <dc:identifier>EE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghana">
+    <dc:identifier>Ghana</dc:identifier>
+    <dc:identifier>GH</dc:identifier>
+    <dc:identifier>ghana</dc:identifier>
+    <dc:identifier>GHANA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel">
+    <dc:identifier>IL</dc:identifier>
+    <dc:identifier>Israel</dc:identifier>
+    <dc:identifier>ISRAEL</dc:identifier>
+    <dc:identifier>israel</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belgium">
+    <dc:identifier>BE</dc:identifier>
+    <dc:identifier>Belgium</dc:identifier>
+    <dc:identifier>BELGIUM</dc:identifier>
+    <dc:identifier>belgium</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bermuda">
+    <dc:identifier>BM</dc:identifier>
+    <dc:identifier>Bermuda</dc:identifier>
+    <dc:identifier>BERMUDA</dc:identifier>
+    <dc:identifier>bermuda</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangladesh">
+    <dc:identifier>bangladesh</dc:identifier>
+    <dc:identifier>BANGLADESH</dc:identifier>
+    <dc:identifier>BD</dc:identifier>
+    <dc:identifier>Bangladesh</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiribati">
+    <dc:identifier>Kiribati</dc:identifier>
+    <dc:identifier>kiribati</dc:identifier>
+    <dc:identifier>KIRIBATI</dc:identifier>
+    <dc:identifier>KI</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niger">
+    <dc:identifier>NE</dc:identifier>
+    <dc:identifier>Niger</dc:identifier>
+    <dc:identifier>NIGER</dc:identifier>
+    <dc:identifier>niger</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puerto_Rico">
+    <dc:identifier>puerto rico</dc:identifier>
+    <dc:identifier>PR</dc:identifier>
+    <dc:identifier>PUERTO RICO</dc:identifier>
+    <dc:identifier>Puerto Rico</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/India">
+    <dc:identifier>INDIA</dc:identifier>
+    <dc:identifier>India</dc:identifier>
+    <dc:identifier>IN</dc:identifier>
+    <dc:identifier>india</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominican_Republic">
+    <dc:identifier>DOMINICAN REPUBLIC</dc:identifier>
+    <dc:identifier>Dominican Republic</dc:identifier>
+    <dc:identifier>DO</dc:identifier>
+    <dc:identifier>dominican republic</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slovenia">
+    <dc:identifier>Slovenia</dc:identifier>
+    <dc:identifier>slovenia</dc:identifier>
+    <dc:identifier>SLOVENIA</dc:identifier>
+    <dc:identifier>SI</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Guiana">
+    <dc:identifier>french guiana</dc:identifier>
+    <dc:identifier>GF</dc:identifier>
+    <dc:identifier>French Guiana</dc:identifier>
+    <dc:identifier>FRENCH GUIANA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nauru">
+    <dc:identifier>NR</dc:identifier>
+    <dc:identifier>NAURU</dc:identifier>
+    <dc:identifier>nauru</dc:identifier>
+    <dc:identifier>Nauru</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Svalbard_and_Jan_Mayen">
+    <dc:identifier>SJ</dc:identifier>
+    <dc:identifier>SVALBARD AND JAN MAYEN</dc:identifier>
+    <dc:identifier>Svalbard and Jan Mayen</dc:identifier>
+    <dc:identifier>svalbard and jan mayen</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antigua_and_Barbuda">
+    <dc:identifier>Antigua and Barbuda</dc:identifier>
+    <dc:identifier>antigua and barbuda</dc:identifier>
+    <dc:identifier>ANTIGUA AND BARBUDA</dc:identifier>
+    <dc:identifier>AG</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungary">
+    <dc:identifier>HUNGARY</dc:identifier>
+    <dc:identifier>HU</dc:identifier>
+    <dc:identifier>hungary</dc:identifier>
+    <dc:identifier>Hungary</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albania">
+    <dc:identifier>Albania</dc:identifier>
+    <dc:identifier>ALBANIA</dc:identifier>
+    <dc:identifier>albania</dc:identifier>
+    <dc:identifier>AL</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pitcairn_Islands">
+    <dc:identifier>PN</dc:identifier>
+    <dc:identifier>PITCAIRN ISLANDS</dc:identifier>
+    <dc:identifier>Pitcairn Islands</dc:identifier>
+    <dc:identifier>pitcairn islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poland">
+    <dc:identifier>Poland</dc:identifier>
+    <dc:identifier>poland</dc:identifier>
+    <dc:identifier>PL</dc:identifier>
+    <dc:identifier>POLAND</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Southern_and_Antarctic_Lands">
+    <dc:identifier>TF</dc:identifier>
+    <dc:identifier>FRENCH SOUTHERN TERRITORIES</dc:identifier>
+    <dc:identifier>French Southern Territories</dc:identifier>
+    <dc:identifier>french southern territories</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenya">
+    <dc:identifier>KE</dc:identifier>
+    <dc:identifier>KENYA</dc:identifier>
+    <dc:identifier>kenya</dc:identifier>
+    <dc:identifier>Kenya</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ecuador">
+    <dc:identifier>EC</dc:identifier>
+    <dc:identifier>Ecuador</dc:identifier>
+    <dc:identifier>ECUADOR</dc:identifier>
+    <dc:identifier>ecuador</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cocos_(Keeling)_Islands">
+    <dc:identifier>Cocos (Keeling) Islands</dc:identifier>
+    <dc:identifier>CC</dc:identifier>
+    <dc:identifier>cocos (keeling) islands</dc:identifier>
+    <dc:identifier>COCOS (KEELING) ISLANDS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_the_Congo">
+    <dc:identifier>CG</dc:identifier>
+    <dc:identifier>REPUBLIC OF THE CONGO</dc:identifier>
+    <dc:identifier>republic of the congo</dc:identifier>
+    <dc:identifier>Republic of the Congo</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Zealand">
+    <dc:identifier>New Zealand</dc:identifier>
+    <dc:identifier>new zealand</dc:identifier>
+    <dc:identifier>NEW ZEALAND</dc:identifier>
+    <dc:identifier>NZ</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mali">
+    <dc:identifier>Mali</dc:identifier>
+    <dc:identifier>mali</dc:identifier>
+    <dc:identifier>MALI</dc:identifier>
+    <dc:identifier>ML</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collectivity_of_Saint_Martin">
+    <dc:identifier>saint martin (french part)</dc:identifier>
+    <dc:identifier>MF</dc:identifier>
+    <dc:identifier>SAINT MARTIN (FRENCH PART)</dc:identifier>
+    <dc:identifier>Saint Martin (French part)</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bouvet_Island">
+    <dc:identifier>BV</dc:identifier>
+    <dc:identifier>bouvet island</dc:identifier>
+    <dc:identifier>BOUVET ISLAND</dc:identifier>
+    <dc:identifier>Bouvet Island</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tajikistan">
+    <dc:identifier>TAJIKISTAN</dc:identifier>
+    <dc:identifier>TJ</dc:identifier>
+    <dc:identifier>Tajikistan</dc:identifier>
+    <dc:identifier>tajikistan</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zambia">
+    <dc:identifier>ZAMBIA</dc:identifier>
+    <dc:identifier>zambia</dc:identifier>
+    <dc:identifier>Zambia</dc:identifier>
+    <dc:identifier>ZM</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Virgin_Islands">
+    <dc:identifier>british virgin islands</dc:identifier>
+    <dc:identifier>VG</dc:identifier>
+    <dc:identifier>BRITISH VIRGIN ISLANDS</dc:identifier>
+    <dc:identifier>British Virgin Islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samoa">
+    <dc:identifier>WS</dc:identifier>
+    <dc:identifier>Samoa</dc:identifier>
+    <dc:identifier>SAMOA</dc:identifier>
+    <dc:identifier>samoa</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nepal">
+    <dc:identifier>NP</dc:identifier>
+    <dc:identifier>Nepal</dc:identifier>
+    <dc:identifier>NEPAL</dc:identifier>
+    <dc:identifier>nepal</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brazil">
+    <dc:identifier>BRAZIL</dc:identifier>
+    <dc:identifier>BR</dc:identifier>
+    <dc:identifier>brazil</dc:identifier>
+    <dc:identifier>Brazil</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christmas_Island">
+    <dc:identifier>christmas island</dc:identifier>
+    <dc:identifier>CX</dc:identifier>
+    <dc:identifier>Christmas Island</dc:identifier>
+    <dc:identifier>CHRISTMAS ISLAND</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka">
+    <dc:identifier>SRI LANKA</dc:identifier>
+    <dc:identifier>LK</dc:identifier>
+    <dc:identifier>Sri Lanka</dc:identifier>
+    <dc:identifier>sri lanka</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singapore">
+    <dc:identifier>Singapore</dc:identifier>
+    <dc:identifier>SINGAPORE</dc:identifier>
+    <dc:identifier>SG</dc:identifier>
+    <dc:identifier>singapore</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turks_and_Caicos_Islands">
+    <dc:identifier>TC</dc:identifier>
+    <dc:identifier>turks and caicos islands</dc:identifier>
+    <dc:identifier>TURKS AND CAICOS ISLANDS</dc:identifier>
+    <dc:identifier>Turks and Caicos Islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Mariana_Islands">
+    <dc:identifier>northern mariana islands</dc:identifier>
+    <dc:identifier>MP</dc:identifier>
+    <dc:identifier>NORTHERN MARIANA ISLANDS</dc:identifier>
+    <dc:identifier>Northern Mariana Islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brunei">
+    <dc:identifier>BN</dc:identifier>
+    <dc:identifier>BRUNEI</dc:identifier>
+    <dc:identifier>Brunei</dc:identifier>
+    <dc:identifier>brunei</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala">
+    <dc:identifier>GUATEMALA</dc:identifier>
+    <dc:identifier>GT</dc:identifier>
+    <dc:identifier>Guatemala</dc:identifier>
+    <dc:identifier>guatemala</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Arab_Emirates">
+    <dc:identifier>UNITED ARAB EMIRATES</dc:identifier>
+    <dc:identifier>united arab emirates</dc:identifier>
+    <dc:identifier>AE</dc:identifier>
+    <dc:identifier>United Arab Emirates</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laos">
+    <dc:identifier>laos</dc:identifier>
+    <dc:identifier>Laos</dc:identifier>
+    <dc:identifier>Lao People's Democratic Republic</dc:identifier>
+    <dc:identifier>LAO PEOPLE'S DEMOCRATIC REPUBLIC</dc:identifier>
+    <dc:identifier>LA</dc:identifier>
+    <dc:identifier>lao people's democratic republic</dc:identifier>
+    <dc:identifier>LAOS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trinidad_and_Tobago">
+    <dc:identifier>TT</dc:identifier>
+    <dc:identifier>TRINIDAD AND TOBAGO</dc:identifier>
+    <dc:identifier>Trinidad and Tobago</dc:identifier>
+    <dc:identifier>trinidad and tobago</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panama">
+    <dc:identifier>PA</dc:identifier>
+    <dc:identifier>PANAMA</dc:identifier>
+    <dc:identifier>panama</dc:identifier>
+    <dc:identifier>Panama</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Minor_Outlying_Islands">
+    <dc:identifier>UM</dc:identifier>
+    <dc:identifier>UNITED STATES MINOR OUTLYING ISLANDS</dc:identifier>
+    <dc:identifier>united states minor outlying islands</dc:identifier>
+    <dc:identifier>United States Minor Outlying Islands</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guadeloupe">
+    <dc:identifier>guadeloupe</dc:identifier>
+    <dc:identifier>Guadeloupe</dc:identifier>
+    <dc:identifier>GP</dc:identifier>
+    <dc:identifier>GUADELOUPE</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Botswana">
+    <dc:identifier>Botswana</dc:identifier>
+    <dc:identifier>BW</dc:identifier>
+    <dc:identifier>botswana</dc:identifier>
+    <dc:identifier>BOTSWANA</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guinea">
+    <dc:identifier>Guinea</dc:identifier>
+    <dc:identifier>GUINEA</dc:identifier>
+    <dc:identifier>guinea</dc:identifier>
+    <dc:identifier>GN</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France">
+    <dc:identifier>France</dc:identifier>
+    <dc:identifier>FR</dc:identifier>
+    <dc:identifier>FRANCE</dc:identifier>
+    <dc:identifier>france</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines">
+    <dc:identifier>VC</dc:identifier>
+    <dc:identifier>SAINT VINCENT AND THE GRENADINES</dc:identifier>
+    <dc:identifier>Saint Vincent and the Grenadines</dc:identifier>
+    <dc:identifier>saint vincent and the grenadines</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Côte_d'Ivoire">
+    <dc:identifier>CôTE D'IVOIRE</dc:identifier>
+    <dc:identifier>CI</dc:identifier>
+    <dc:identifier>Côte d'Ivoire</dc:identifier>
+    <dc:identifier>côte d'ivoire</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namibia">
+    <dc:identifier>NA</dc:identifier>
+    <dc:identifier>Namibia</dc:identifier>
+    <dc:identifier>NAMIBIA</dc:identifier>
+    <dc:identifier>namibia</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myanmar">
+    <dc:identifier>myanmar</dc:identifier>
+    <dc:identifier>Myanmar</dc:identifier>
+    <dc:identifier>MM</dc:identifier>
+    <dc:identifier>MYANMAR</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peru">
+    <dc:identifier>Peru</dc:identifier>
+    <dc:identifier>PERU</dc:identifier>
+    <dc:identifier>PE</dc:identifier>
+    <dc:identifier>peru</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faroe_Islands">
+    <dc:identifier>FO</dc:identifier>
+    <dc:identifier>faroe islands</dc:identifier>
+    <dc:identifier>Faroe Islands</dc:identifier>
+    <dc:identifier>FAROE ISLANDS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macau">
+    <dc:identifier>Macau</dc:identifier>
+    <dc:identifier>MO</dc:identifier>
+    <dc:identifier>MACAU</dc:identifier>
+    <dc:identifier>macau</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solomon_Islands">
+    <dc:identifier>solomon islands</dc:identifier>
+    <dc:identifier>SB</dc:identifier>
+    <dc:identifier>Solomon Islands</dc:identifier>
+    <dc:identifier>SOLOMON ISLANDS</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czech_Republic">
+    <dc:identifier>CZECH REPUBLIC</dc:identifier>
+    <dc:identifier>CZ</dc:identifier>
+    <dc:identifier>czech republic</dc:identifier>
+    <dc:identifier>Czech Republic</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maldives">
+    <dc:identifier>MALDIVES</dc:identifier>
+    <dc:identifier>Maldives</dc:identifier>
+    <dc:identifier>MV</dc:identifier>
+    <dc:identifier>maldives</dc:identifier>
+  </rdf:Description>
+</rdf:RDF>
+
