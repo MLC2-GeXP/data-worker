@@ -498,6 +498,27 @@
             </summary>
             <returns></returns>
         </member>
+        <member name="M:Gexp_DataWorker_API.Controllers.QueryCategoryApiController.DeleteIndicator(System.String)">
+            <summary>
+            Delete subcategory indicator
+            </summary>
+            <param name="indicatorName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gexp_DataWorker_API.Controllers.QueryCategoryApiController.DeleteSubcategory(System.String)">
+            <summary>
+            Delete subcategory
+            </summary>
+            <param name="subcategoryName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gexp_DataWorker_API.Controllers.QueryCategoryApiController.DeleteCategory(System.String)">
+            <summary>
+            Delete category
+            </summary>
+            <param name="category"></param>
+            <returns></returns>
+        </member>
         <member name="T:Gexp_DataWorker_API.Controllers.QueryCountryApiController">
             <summary>
             Controller for countries requests

@@ -147,6 +147,7 @@ namespace Gexp_DataWorker.Controller
 
             return null;
         }*/
+
         #endregion
 
         public List<CategoryAndSubcategoryModel> GetListOfCategoryWihtSubCategory()
@@ -158,7 +159,7 @@ namespace Gexp_DataWorker.Controller
                 var responseCategList = _starDogInerface.GetItemsList(sparqlCateg);
                 var responseList = new List<CategoryAndSubcategoryModel>();
                 if (responseCategList.Results.Count > 0)
-                {                    
+                {
                     foreach (SparqlResult resultCateg in responseCategList.Results)
                     {
                         var itemCateg = new CategoryAndSubcategoryModel();
@@ -171,7 +172,7 @@ namespace Gexp_DataWorker.Controller
                         var responseSubCateg = _starDogInerface.GetItemsList(sparqlSubCateg);
                         var subCategoryList = new List<SubcategoryModel>();
                         if (responseSubCateg.Results.Count > 0)
-                        {                                                        
+                        {
                             foreach (SparqlResult resultSubCateg in responseSubCateg.Results)
                             {
                                 var subCategItem = new SubcategoryModel();
@@ -180,12 +181,14 @@ namespace Gexp_DataWorker.Controller
                                                        "?c gexp:hasCategory ?category . " +
                                                        "?c gexp:hasSubcategory ?subcateg . " +
                                                        "?c gexp:hasIndicatorName ?prop . " + Environment.NewLine +
-                                                       "filter(str(?category) = \"" + resultCateg[0].ToString() + "\") " + Environment.NewLine +
-                                                       "filter(str(?subcateg) = \"" + resultSubCateg[1].ToString() + "\") }";
+                                                       "filter(str(?category) = \"" + resultCateg[0].ToString() + "\") " +
+                                                       Environment.NewLine +
+                                                       "filter(str(?subcateg) = \"" + resultSubCateg[1].ToString() +
+                                                       "\") }";
                                 var responseIndicators = _starDogInerface.GetItemsList(sparqlIndicators);
                                 var indicatorList = new List<SubcategoryIndicators>();
                                 if (responseIndicators.Results.Count > 0)
-                                {                                    
+                                {
                                     foreach (SparqlResult responseIndicator in responseIndicators)
                                     {
                                         var indicatorItem = new SubcategoryIndicators();
@@ -194,7 +197,7 @@ namespace Gexp_DataWorker.Controller
                                         //add indicators
                                         indicatorList.Add(indicatorItem);
                                     }
-                                }                                
+                                }
                                 subCategItem.SubcategoryName = resultSubCateg[1].ToString();
                                 subCategItem.Indicators = indicatorList;
                                 //add sublist
@@ -215,6 +218,78 @@ namespace Gexp_DataWorker.Controller
             }
 
             return null;
+        }
+
+        public bool DeleteIndicator(string indicatorName)
+        {
+            try
+            {
+                if (String.IsNullOrEmpty(indicatorName))
+                    return false;
+
+                var sparql =
+                    "DELETE { ?indicator ?p ?v } " +
+                    "WHERE { ?indicator gexp:hasIndicatorName ?ident . " +
+                    "FILTER ( str(?ident) = \""+indicatorName.Trim()+"\") " +
+                    "?indicator ?p ?v }";
+
+                var delete = _starDogInerface.Delete(sparql);
+                if (delete)
+                    return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+            return false;
+        }
+
+        public bool DeleteSubcategory(string subcategory)
+        {
+            try
+            {
+                if (String.IsNullOrEmpty(subcategory))
+                    return false;
+
+                var sparql =
+                    "DELETE { ?subcateg ?p ?v } " +
+                    "WHERE { ?subcateg gexp:hasSubcategory ?ident . " +
+                    "FILTER ( str(?ident) = \"" + subcategory.Trim() + "\") " +
+                    "?subcateg ?p ?v }";
+
+                var delete = _starDogInerface.Delete(sparql);
+                if (delete)
+                    return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+            return false;
+        }
+
+        public bool DeleteCategory(string category)
+        {
+            try
+            {
+                if (String.IsNullOrEmpty(category))
+                    return false;
+
+                var sparql =
+                    "DELETE { ?categ ?p ?v } " +
+                    "WHERE { ?categ gexp:hasCategory ?ident . " +
+                    "FILTER ( str(?ident) = \"" + category.Trim() + "\") " +
+                    "?categ ?p ?v }";
+
+                var delete = _starDogInerface.Delete(sparql);
+                if (delete)
+                    return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+            return false;
         }
     }
 }

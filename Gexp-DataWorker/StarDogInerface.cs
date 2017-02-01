@@ -70,5 +70,25 @@ namespace Gexp_DataWorker
             }
             return status;
         }
+
+        /// <summary>
+        /// delete item based on query
+        /// </summary>
+        /// <param name="query"></param>
+        /// <returns></returns>
+        public bool Delete(string query)
+        {
+            var status = false;
+            try
+            {
+                var queryResp = StarDogHelper.SparqlDelete(query);
+                status = queryResp;
+            }
+            catch (Exception)
+            {
+                status = false;
+            }
+            return status;
+        }
     }
 }

@@ -10,7 +10,7 @@ namespace Gexp_DataWorker_API
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-            config.Formatters.JsonFormatter.UseDataContractJsonSerializer = true;
+            //config.Formatters.JsonFormatter.UseDataContractJsonSerializer = true;
 
             // Web API routes
             config.MapHttpAttributeRoutes();

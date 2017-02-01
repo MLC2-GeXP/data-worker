@@ -250,6 +250,24 @@ namespace Gexp_DataWorker.Helpers
 
         }
 
+        public static bool SparqlDelete(string command)
+        {
+            using (StardogConnector dog = new StardogConnector(ConnectionString(), ConnectionDatabase(), ConnectionUser(), ConnectionPassword()))
+            {
+                Object results = dog.Query(Prefixes() + command);
+                if (results is SparqlResultSet)
+                {
+                    var rst = (SparqlResultSet) results;
+                    if (rst.Result)
+                        return true;
+                    else
+                        return false;
+                }
+                else
+                    return false;
+            }
+        }
+
         /// <summary>
         /// Take a node (subject, predicate, object) and return it
         /// properly formatted as a string you could use in SPARQL;
